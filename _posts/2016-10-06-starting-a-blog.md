@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Starting a blog"
+date: 2016-10-06
+---
+
+
 # Starting a blog
 
 ## why static?
