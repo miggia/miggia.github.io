@@ -4,9 +4,6 @@ title: "Starting a blog"
 date: 2016-10-06
 ---
 
-
-# Starting a blog
-
 ## why static?
 
 I remeber reading a blog post on the [Otherlabs blog](https://otherlab.com/blog) (love their work) talking about how their old dynamic blog was hacked, and why it is good to go static.
