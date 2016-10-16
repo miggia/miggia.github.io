@@ -173,8 +173,8 @@ button.button-primary:focus {
 }
 
 .ch-grid li {
-	width: 220px;
-	height: 220px;
+	width: 280px;
+	height: 280px;
 	display: inline-block;	
 }
 
@@ -190,14 +190,14 @@ button.button-primary:focus {
 .ch-info-wrap, 
 .ch-info{
 	position: absolute;
-	width: 180px;
-	height: 180px;
+	width: 280px;
+	height: 280px;
 	border-radius: 50%;
 }
 
 .ch-info-wrap {
-	top: 20px;
-	left: 20px;
+	top: 0px;
+	left: 0px;
 	background: #fff url(/images/bg.jpg);
 	box-shadow: 
 		0 0 0 20px rgba(255,255,255,0.2), 
