@@ -10,9 +10,28 @@ In this post I'll describe shortly how this can be done.
 
 ## What is a trail file?
 
+Every Creo Parametric session records all user input into a trail file.
+The trail file can then be replayed to replicate a given user session.
+The "syntax" of the trail file is extremely similar to that of Creo Parametric Mapkeys.
 
+The PTC J-Link user guide advises against using this method for 
+
+> Creating or editing the macro string manually is not supported as the mapkeys are not a supported scripting language.
+> The syntax is not defined for users and is not guaranteed to remain constant across different
+> datecodes of Creo Parametric 
+>
+
+Furthermore the syntax is not documented, making it really hard for users
+
+Despite all these premises I have found that writing trail files is a very convenient way of automating tedious tasks.
+
+It is not as elegant as writing Toolkit applications but is much quicker, and I tend to adopt it as the quick-and-dirty way.
 
 ## Creo Parametric Macro language reference
+
+As described before PTC does not provide a documentation for the Macro language.
+
+However it is rather simple to "reverse engineer" the syntax by looking at Creo trail files of short sessions where only simple commands are executed.
 
 The macro language "translation" of commonly used commands are reported hereafter.
 
@@ -85,7 +104,6 @@ The macro language "translation" of commonly used commands are reported hereafte
 ## Caveats
 
 It does not seem to be possible to use a trail file to run a trail file.
-
 When doing so with the syntax:
 
 ```
@@ -98,6 +116,4 @@ Creo crashes returning the following error message:
 
 `!%CEERROR: Trail file out of sequence at line 12.`
 
-
-
-#### 
+ 
