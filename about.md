@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Alberto. I love making robots.
 
-I work at [IIT](www.iit.it) as the lead hardware specialist of the [iCub](www.icub.org) and [R1]() projects.
+I work at [IIT](www.iit.it) as the lead hardware specialist of the [iCub](www.icub.org) and [R1](https://www.youtube.com/watch?v=TBphNGW6m4o) projects.
 
 I strive to design mechanisms with complex behavior in minimal embodiments, for achieving high efficiency, improved interaction, at reduced cost.
 
