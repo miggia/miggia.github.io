@@ -17,15 +17,12 @@ The "syntax" of the trail file is extremely similar to that of Creo Parametric M
 The PTC J-Link user guide advises against using this method for 
 
 > Creating or editing the macro string manually is not supported as the mapkeys are not a supported scripting language.
-> The syntax is not defined for users and is not guaranteed to remain constant across different
-> datecodes of Creo Parametric 
->
+> The syntax is not defined for users and is not guaranteed to remain constant across different datecodes of Creo Parametric 
 
-Furthermore the syntax is not documented, making it really hard for users
+Furthermore the syntax for the "Macro language" is not documented, making it really hard for users to write functioning scripts.
 
 Despite all these premises I have found that writing trail files is a very convenient way of automating tedious tasks.
-
-It is not as elegant as writing Toolkit applications but is much quicker, and I tend to adopt it as the quick-and-dirty way.
+It is not as elegant as writing Toolkit applications but requires much less time, and I tend to adopt it as the quick-and-dirty solution.
 
 ## Creo Parametric Macro language reference
 
@@ -33,7 +30,10 @@ As described before PTC does not provide a documentation for the Macro language.
 
 However it is rather simple to "reverse engineer" the syntax by looking at Creo trail files of short sessions where only simple commands are executed.
 
-The macro language "translation" of commonly used commands are reported hereafter.
+The macro language "translation" of commands commonly used to export files are reported hereafter.
+
+In these commands you will generally want vary the file name; the points where this shall be done are marked with the `ADD_FILE_NAME_HERE`.
+Bear in mind that within the Macro language file names and paths require double slashes `\\` instead of single slashes `\`.
 
 #### Open file
 
@@ -90,6 +90,7 @@ The macro language "translation" of commonly used commands are reported hereafte
 ~ Activate `bom` `ok.OkBtn`
 #FILE
 ```
+
 #### Activate EDU-COM converter
 
 ```
@@ -102,6 +103,8 @@ The macro language "translation" of commonly used commands are reported hereafte
 ```
 
 ## Caveats
+
+### Known limitations
 
 It does not seem to be possible to use a trail file to run a trail file.
 When doing so with the syntax:
@@ -116,4 +119,6 @@ Creo crashes returning the following error message:
 
 `!%CEERROR: Trail file out of sequence at line 12.`
 
- 
+ ### No debugger
+
+ As there is no way to debug a trail file, one might end in the situation where it gets difficult to understand why a given set of commands is not producing the expected result.
