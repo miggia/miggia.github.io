@@ -16,4 +16,4 @@ In my spare time I love writing Python code, drawing, and reading.
 
 Write me an e-mail at [alberto.parmiggiani@gmail.com](mailto:alberto.parmiggiani@gmail.com)
 
-Check out my code on [GitHub](github.com/miggia)
+Check out my code on [GitHub](https://github.com/miggia)
