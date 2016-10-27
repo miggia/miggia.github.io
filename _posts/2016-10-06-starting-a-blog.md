@@ -4,8 +4,7 @@ title: "Starting a blog"
 date: 2016-10-06
 ---
 
-A while ago I decided to create my webpage on [GitHub](https://github.com) and eventually write some blog posts.
-
+A while ago I decided to create my webpage on [GitHub](https://github.com) and eventually write some blog posts. 
 I then started to figure out how to do it. Here are some notes.
 
 ## why static?

@@ -5,7 +5,6 @@ date: 2016-10-16
 ---
 
 After deciding to use Jekyll I set out to decide which theme to use.
-
 I was pretty much for a minimal theme, with no Javascript and no complex styling.
 
 After quite some searching I found the following themes to match my preferences best:
