@@ -4,24 +4,28 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### iCub 
+The iCub is a 53DOF open-source humanoid robot. Since 2007 I've completed the design and testing of several of its parts. Among these, the upper-body, the legs, the six-axis force-torque sensors, the covers and the head. Since 2010 I have taken the role of hardware lead of the project.
+
+More details about the robot can be found on the project website [www.icub.org](www.icub.org).
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### R1
+The R1 represents an attempt to bring the iCub technology closer to real world applications, and was specially focused on making the robot system affordable.
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+The key ingredients to achieve this goal were the extensive use of engineering plastics, parallel kinematics, and of a design for manufacturing approach.
 
-***
+An introductory video about the robot can be found [here](https://www.youtube.com/watch?v=TBphNGW6m4o).
 
-## Other Projects
 
-### This Could Be Another Project Name
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-### This Could Be Yet Another Project Name
-
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+[//]: <> (
+  ***
+  ### Minor software projects
+  #### Symbolic spatial vector algebra 
+	During my PhD I struggled with writing the dynamic models of simple 	robot manipulators, and often whished this annoying step could be at 	least partially automated.
+	A simple solution I concieved was to translate Roy Featherstone's SVA 	Matlab library to the [Maxima]() Computer Algebra System (CAS).
+  The 
+  A very rough implementation is available in my GitHub sandbox repo.
+  In my spare time I'm trying to complete a similar porting to Sympy.
+)
