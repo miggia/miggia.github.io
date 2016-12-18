@@ -17,15 +17,3 @@ The R1 represents an attempt to bring the iCub technology closer to real world a
 The key ingredients to achieve this goal were the extensive use of engineering plastics, parallel kinematics, and of a design for manufacturing approach.
 
 An introductory video about the robot can be found [here](https://www.youtube.com/watch?v=TBphNGW6m4o).
-
-
-[//]: <> (
-  ***
-  ### Minor software projects
-  #### Symbolic spatial vector algebra 
-	During my PhD I struggled with writing the dynamic models of simple 	robot manipulators, and often whished this annoying step could be at 	least partially automated.
-	A simple solution I concieved was to translate Roy Featherstone's SVA 	Matlab library to the [Maxima]() Computer Algebra System (CAS).
-  The 
-  A very rough implementation is available in my GitHub sandbox repo.
-  In my spare time I'm trying to complete a similar porting to Sympy.
-)
