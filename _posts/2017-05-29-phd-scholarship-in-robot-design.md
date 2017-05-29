@@ -4,7 +4,7 @@ title: "PhD scholarship in robot design"
 date: 2017-05-29
 ---
 
-A new PhD scholarship on robot design is available at [our lab](https://www.iit.it/research/lines/icub) at the, [Istituto Italiano di Tecnologia](https://www.iit.it/).
+A new PhD scholarship on robot design is available at [our lab](https://www.iit.it/research/lines/icub) at the [Istituto Italiano di Tecnologia](https://www.iit.it/).
 
 The position is  available through the PhD course of Bioengineering and Robotics, curriculum on Advanced and Humanoid Robotics. Prospective candidates are invited to get in touch with Alberto Parmiggiani (name.surname@iit.it) for further details.
 
