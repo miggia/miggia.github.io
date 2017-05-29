@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "funded PhD scholarship in robot design"
+title: "PhD scholarship in robot design"
 date: 2017-05-29
 ---
 
