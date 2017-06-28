@@ -26,15 +26,15 @@ The use of linkages is also important because it allows fast design iterations. 
 
 A few images taken from demo videos are shown hereafter.
 
-<img src='{{ site.url }}/asset-bank/animatronic_wrist_1_col1.jpg' height=200pt/> <img src='{{ site.url }}/asset-bank/animatronic_wrist_2_col2.jpg' height=200pt/>
+<img src='{{ site.url }}/asset-bank/animatronic_wrist_1_col1.jpg' height='200pt/'> <img src='{{ site.url }}/asset-bank/animatronic_wrist_2_col2.jpg' height='200pt/'>
 
-<img src='{{ site.url }}/asset-bank/animatronic_eyes_col1.jpg' height=200pt/> <img src='{{ site.url }}/asset-bank/animatronic_head_col2.jpg' height=200pt/>
+<img src='{{ site.url }}/asset-bank/animatronic_eyes_col1.jpg' height='200pt/'> <img src='{{ site.url }}/asset-bank/animatronic_head_col2.jpg' height='200pt/'>
 
 Medium-scale systems are often cable-driven. An interesting example is the Apatosaurus model developed by Legacy Effects for the movie Jurassic World.
 
-<img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_col1.jpg' height=200pt/> <img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_neck_1_col3.jpg' height=200pt/>
+<img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_col1.jpg' height='200pt/'> <img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_neck_1_col3.jpg' height='200pt/'>
 
-<img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_neck_2_col2.jpg' height=200pt/> <img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_neck_3_col1.jpg' height=200pt/>
+<img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_neck_2_col2.jpg' height='200pt/'> <img src='{{ site.url }}/asset-bank/animatronic_apatosaurus_neck_3_col1.jpg' height='200pt/'>
 
 As can be seen the frame is composed of crossed-four-bar linkages (seemingly aluminum).
 The transmission relies on steel pull-pull cables acting on pulleys (diameter around 150mm).
