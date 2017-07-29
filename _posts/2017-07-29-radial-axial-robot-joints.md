@@ -46,7 +46,7 @@ Indeed both this approach was the one followed by researchers at DLR for the dev
 A cross-section of the LWR-III joint and how it is employed to obtain the structure of the DLR LWR-III robot are shown hereafter.
 
 <div align="center"><img src='{{ site.url }}/asset-bank/dlr-lwr-iii-joint.jpg' height='350pt'/></div>
-<div align="center"><img src='{{ site.url }}/asset-bank/dlr-lwr-iii-modularity-2.jpg' height='250pt'><	img src='{{ site.url }}/asset-bank/dlr-lwr-iii-modularity.jpg' height='250pt'></div>
+<div align="center"><img src='{{ site.url }}/asset-bank/dlr-lwr-iii-modularity-2.jpg' height='250pt'><img src='{{ site.url }}/asset-bank/dlr-lwr-iii-modularity.jpg' height='250pt'></div>
 
 ## Cable routing
 
