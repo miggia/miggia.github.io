@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robot joints: the difference between "radial" and "axial" layouts"
+title: "Robot joints: the difference between 'radial' and 'axial' layouts"
 date: 2017-07-29
 ---
 
