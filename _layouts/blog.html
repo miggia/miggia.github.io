@@ -9,6 +9,8 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    {% seo %}
+
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -17,9 +19,9 @@
   </head>
 
   <body>
-    
-    
-    <div class="intro-header">    
+
+
+    <div class="intro-header">
       <div class="container">
         <div class="post-heading">
             <h1>{{page.title}}</h1>
@@ -28,10 +30,10 @@
             <a href="{{ site.baseurl }}/"> { Return to Blog }</a>
             </span>
         </div>
-            
+
       </div>
     </div>
-    
+
 
     <div id="main" role="main" class="container">
       {{ content }}
