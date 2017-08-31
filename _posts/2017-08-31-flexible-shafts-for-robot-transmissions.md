@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "title"
+title: "A review of flexible-shaft transmissions for robotics"
 date: "2017-08-31"
 categories: [Robotics, Mechanical Design, Review, Flexible Shaft]
 ---
