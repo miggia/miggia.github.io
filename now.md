@@ -4,13 +4,19 @@ title: Now
 permalink: /now/
 ---
 
+### 31.08.17
+
+back from the holidays :sob:
+- Revising the design of the R1 moving base
+- Working on some reviews for HUMANODS2017
+
+<!--
+Previous nows
+
 ### 17.08.17
 
 - Working on the iCub3 covers surfaces and storing them on the iCub repo
 - Getting things ready before a week of holidays
-
-<!--
-Previous nows
 
 ### 05.08.17
 
