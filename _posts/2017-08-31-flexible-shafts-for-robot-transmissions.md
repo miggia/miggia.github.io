@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A review of flexible-shaft transmissions for robotics"
+title: "A review of flexible-shaft transmissions for robo"
 date: "2017-08-31"
 categories: [Robotics, Mechanical Design, Review, Flexible Shaft]
 ---
@@ -13,7 +13,7 @@ The review came with a list of technical documents describing relevant implement
 
 Flexible shafts are devices for transmitting rotary motion between two bodies. Flexible shafts consist of multi-layer wound steel coils, that can be bent according to need.
 
-<div align="center"><img src='{{ site.url }}/asset-bankflex-shaft-set-photo.jpg'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/flex-shaft-set-photo.jpg'/></div>
 
 Flexible shafts are often protected with a non-rotating outer casing that generally comprises ball bearings to keep the shaft terminals in place during rotation.
 Flexible shafts have very good mechanical efficiencies (up to 90%), that however decreases when they are bent, and rather good torsional stiffnesses. Furthermore, they can rotate at considerable angular velocities, up to 50000rpm.
@@ -23,7 +23,7 @@ Their use allows considerable design freedom and reduces the requirements for ti
 
 These advantages altogether make them an appealing solution for mechanical transmission in mechatronic systems for connecting electric motors to their driven gearboxes (as represented in the following image).
 
-<div align="center"><img src='{{ site.url }}/asset-bankflex-shaft-diagram.svg'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/flex-shaft-diagram.svg'/></div>
 
 
 Indeed, this application has been considered and they have sometimes implemented in robotic system: the present article presents a review of the most important works on this topic so far.
@@ -33,8 +33,8 @@ Indeed, this application has been considered and they have sometimes implemented
 A very interesting implementation of this concept is presented in a [Japanese patent][JP S6112692] document dating back to 1986.
 The document images clearly show a 3DOF robot driven with worm-gear speed reducers with flexible shaft housed inside the robot outer shell.
 
-<div align="center"><img src='{{ site.url }}/asset-bankJP-S6112692_01.PNG' height='250pt'/></div>
-<div align="center"><img src='{{ site.url }}/asset-bankJP-S6112692_02.PNG' height='250pt'/><img src='{{ site.url }}/asset-bankJP-S6112692_03.PNG' height='250pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/JP-S6112692_01.PNG' height='250pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/JP-S6112692_02.PNG' height='250pt'/><img src='{{ site.url }}asset-bank/JP-S6112692_03.PNG' height='250pt'/></div>
 
 Unfortunately given the lack of automatic translation tools and my ignorance of Japanese it is impossible to extract further information from this document.
 
@@ -42,7 +42,7 @@ Unfortunately given the lack of automatic translation tools and my ignorance of 
 
 A second early 1983 [Japanese patent][JP S58102694 A] by Nissan Motor Corp. shows a cross-section of a 3DOF robot end-effector, driven with flexible shafts. Also, in this case, the flexible shafts run inside the robot shells.
 
-<div align="center"><img src='{{ site.url }}/asset-bankJP-S58102694-A.PNG' height='400pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/JP-S58102694-A.PNG' height='400pt'/></div>
 
 In this case, the actuators drive the robot joints directly, and no speed reducers are represented on the joints.
 The document nevertheless shows that large portions of internal volume must be kept free to allow the motion of the flexible shafts as the joints of the robot rotate.
@@ -57,24 +57,24 @@ The three flexible shafts enter the wrist transmission at fixed entry-points, wh
 In this specific embodiment, the flexible shafts entry-points remain constant, rigidly fixed to the link before the wrist articulation.
 This, in turn, does not entail the introduction of an internal free-volume to allow the flex-shafts sweep during motion.
 
-<div align="center"><img src='{{ site.url }}/asset-bankUS-5887800-A_01.PNG' height='400pt'/></div>
-<div align="center"><img src='{{ site.url }}/asset-bankUS-5887800-A_02.PNG' height='400pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/US-5887800-A_01.PNG' height='400pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/US-5887800-A_02.PNG' height='400pt'/></div>
 
 ## Link actuation devices, EP 2998081 A1
 
 The device described in the [EP 2998081 A1 patent][EP 2998081 A1] by Sone Keisuke, Isobe Hiroshi and Nishio Yukihiro provides yet another example of the use of flexible shaft transmissions.
 The patent presents a fast-moving 2DOF joint that resembles Mark Rosheim's [OmniWrist III][OmniWrist III] in its design.
 
-<div align="center"><img src='{{ site.url }}/asset-bankEP-2998081-A1_01.PNG' height='250pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/EP-2998081-A1_01.PNG' height='250pt'/></div>
 
 A flexible-shaft transmission runs through the joint for actuating distal DOF as shown in the following image.
 
-<div align="center"><img src='{{ site.url }}/asset-bankEP-2998081-A1_02.PNG' height='250pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/EP-2998081-A1_02.PNG' height='250pt'/></div>
 
 Interestingly the article also provides a mathematical formulation for describing the curve done by the internal flexible-shaft.
 Indeed the authors argue that in the plane orthogonal to the joint's axis of rotation the curve traced by the flexible-shaft is a circular arc.
 
-<div align="center"><img src='{{ site.url }}/asset-bankEP-2998081-A1_03.PNG' height='350pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/EP-2998081-A1_03.PNG' height='350pt'/></div>
 
 With reference to the diagram above, the following equations hold:
 
@@ -95,7 +95,7 @@ $$ R_{min} = D \cdot \left(\dfrac{1}{\sin\theta_{max}} + \dfrac{1}{2 \cdot \tan\
 
 Another example of the use of flexible-shaft transmissions in robotics is constituted by the 2010 [Japanese patent JP 2010069580][JP 2010069580] developed by Takayama Yuki and Kanbe Masayuki for Kawasaki Heavy Industries.
 
-<div align="center"><img src='{{ site.url }}/asset-bankJP-2010069580.PNG' height='500pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/JP-2010069580.PNG' height='500pt'/></div>
 
 The document presents a robotic joint with a strain wave (a.k.a. Harmonic Drive) speed reducer driven remotely by a motor connected to it via a flexible-shaft.
 More in detail Figure 3 and figure 5 show two slightly different variants of this design: in the first case the axis of the flex-shaft and of the strain wave speed reducer coincide, whereas in the second case they are placed at a 90° angle thanks to a bevel gear pair.
@@ -105,8 +105,8 @@ More in detail Figure 3 and figure 5 show two slightly different variants of thi
 The use of flex-shafts has also been considered for medical applications as described in the 2012 [German patent DE 102013204984 A1][DE 102013204984 A1] by Stephan Prestel.
 The patent describes a compact pivoting end-effector and jaw, driven by a worm-gear reducer connected to its driving motor by means of a flexible-shaft.
 
-<div align="center"><img src='{{ site.url }}/asset-bankDE-10203204084-A1_01.PNG' height='250pt'/><img src='{{ site.url }}/asset-bankDE-10203204084-A1_02.PNG' height='250pt'/></div>
-<div align="center"><img src='{{ site.url }}/asset-bankDE-10203204084-A1_03.PNG' height='500pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/DE-10203204084-A1_01.PNG' height='250pt'/><img src='{{ site.url }}asset-bank/DE-10203204084-A1_02.PNG' height='250pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/DE-10203204084-A1_03.PNG' height='500pt'/></div>
 
 ## Wabian robot upgrade by Kishi et al.
 
@@ -114,11 +114,11 @@ It is finally worth mentioning that more recently flex-shaft transmissions have 
 Kishi et al. have recently published an [article][kishi_16] on the modification of the Wabian humanoid arms aimed at increasing their maximum allowable velocity.
 In this embodiment the flex-shafts are not housed within the robot's torso and run externally as represented in the following photographs.
 
-<div align="center"><img src='{{ site.url }}/asset-bankkishi_16_01.jpg' height='300pt'/><img src='{{ site.url }}/asset-bankkishi_16_02.jpg' height='300pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/kishi_16_01.jpg' height='300pt'/><img src='{{ site.url }}asset-bank/kishi_16_02.jpg' height='300pt'/></div>
 
 A digram of the layout is presented below. It is worth noting that for the sake of simplicity the authors chose to connect the flexible-shaft directly to the Harmonic Drive input axis, without adding a 90° angle with, for example a bevel gear pair, even if that would have resulted in a more compact design.
 
-<div align="center"><img src='{{ site.url }}/asset-bankkishi_16_03.PNG' height='200pt'/></div>
+<div align="center"><img src='{{ site.url }}asset-bank/kishi_16_03.PNG' height='200pt'/></div>
 
 
 # References
