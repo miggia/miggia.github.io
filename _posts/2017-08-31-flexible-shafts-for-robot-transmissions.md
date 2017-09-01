@@ -3,6 +3,7 @@ layout: post
 title: "A review of flexible-shaft transmissions in robotics"
 date: "2017-08-31"
 categories: [Robotics, Mechanical Design, Review, Flexible Shaft]
+use_math: true 
 ---
 
 I and my colleagues recently tried to file a patent for a 2DOF robot joint actuated by flexible shafts, that was developed as part of the R1 project.

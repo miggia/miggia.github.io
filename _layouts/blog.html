@@ -11,6 +11,10 @@
 
     {% seo %}
 
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
