@@ -4,14 +4,20 @@ title: Now
 permalink: /now/
 ---
 
+### 08.09.17
+
+- preparing for IROS17
+- revising the design of a 2DOF joint
+
+
+<!--
+Previous nows
+
 ### 31.08.17
 
 back from the holidays :sob:
 - Revising the design of the R1 moving base
 - Working on some reviews for HUMANODS2017
-
-<!--
-Previous nows
 
 ### 17.08.17
 
