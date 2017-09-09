@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Robot joints: the difference between 'radial' and 'axial' layouts"
-date: 2017-07-29
+date: "2017-07-29"
+categories: [Robotics]
+use_mathjax: false
 ---
 
 Let us define loosely "radial" joints as joints where the rotation axis is oriented transversely to the main direction defined by the robot link. Conversely let us call "axial" joints the ones whose rotation axis is approximately aligned with the principal link direction. When designing a robot with rotational joints there are marked differences that arise from the particular joint layout and kinematics that are selected.

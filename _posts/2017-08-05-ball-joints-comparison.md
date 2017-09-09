@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "A comparison of spherical bearing for compact applications"
-date: 2017-08-05
+date: "2017-08-05"
+categories: [Mechanics]
+use_mathjax: false
 ---
 
 A few days ago I was searching for compact spherical ball bearings for a parallel joint I and my colleagues are designing. We specifically needed something compact with a high range of motion. After a bit of searching I realized that there are not many commercial components that satisfy these requirements.
