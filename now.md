@@ -6,12 +6,16 @@ permalink: /now/
 
 ### 08.09.17
 
-- preparing for IROS17
-- revising the design of a 2DOF joint
+- preparing the presentations for IROS
 
 
 <!--
 Previous nows
+
+### 08.09.17
+
+- preparing for IROS17
+- revising the design of a 2DOF joint
 
 ### 31.08.17
 
