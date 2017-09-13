@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-### 08.09.17
+### 13.09.17
 
 - preparing the presentations for IROS
 
