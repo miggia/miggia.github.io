@@ -39,4 +39,4 @@ This behaviour results in position, velocity and torque traces like the ones rep
 
 ### Comments
 
-I believe this description could be improved. If you have suggestions or comments on how to do this please [contact me]({{ site.url }}/about/).
+I believe this description could be improved. If you have suggestions or comments on how to do this please [contact me]({{ site.url }}about/).
