@@ -2,7 +2,8 @@
 layout: post
 title: "A comparison of spherical bearing for compact applications"
 date: "2017-08-05"
-categories: [Mechanics]
+category: Mechanics
+keywords: [Ball joints]
 use_mathjax: false
 ---
 

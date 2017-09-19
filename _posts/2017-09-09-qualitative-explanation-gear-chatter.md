@@ -2,7 +2,7 @@
 layout: post
 title: "A qualitative description of gear chatter phenomena"
 date: "2017-09-09"
-categories: [Mechanics]
+category: [Mechanics]
 use_mathjax: false
 ---
 

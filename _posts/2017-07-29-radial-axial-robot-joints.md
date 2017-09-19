@@ -2,7 +2,7 @@
 layout: post
 title: "Robot joints: the difference between 'radial' and 'axial' layouts"
 date: "2017-07-29"
-categories: [Robotics]
+category: Robotics
 use_mathjax: false
 ---
 
