@@ -309,5 +309,11 @@ table tr {
 table tr:nth-child(2n) {
   background-color: #f8f8f8; }
 
+code {
+  font-family:Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+  background-color:#eff0f1;
+  padding:1px 5px;
+}
+
 @import "highlights";
 @import "jekyll-mono";
