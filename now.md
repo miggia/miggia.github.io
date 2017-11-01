@@ -4,13 +4,18 @@ title: Now
 permalink: /now/
 ---
 
-### 13.09.17
+### 02.11.17
 
-- preparing the presentations for IROS
+- working on the kinematics of a 2DOF joint
+- following the purchase of two new workstations for the lab
 
 
 <!--
 Previous nows
+
+### 13.09.17
+
+- preparing the presentations for IROS
 
 ### 08.09.17
 
