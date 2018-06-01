@@ -4,14 +4,20 @@ title: Now
 permalink: /now/
 ---
 
+### 01.06.18
+
+- working on the kinematics of a 2DOF joint
+- writing a chapter for a book in robotics
+
+
+<!--
+Previous nows
+
 ### 02.11.17
 
 - working on the kinematics of a 2DOF joint
 - following the purchase of two new workstations for the lab
 
-
-<!--
-Previous nows
 
 ### 13.09.17
 
