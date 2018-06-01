@@ -7,6 +7,7 @@ permalink: /now/
 ### 01.06.18
 
 - working on the kinematics of a 2DOF joint
+- revising our HUMANOIDS2018 submission
 - writing a chapter for a book in robotics
 
 
