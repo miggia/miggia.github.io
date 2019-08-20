@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/authors/alberto-parmiggiani/</link>
+    <description>Recent content on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://miggia.github.io/authors/alberto-parmiggiani/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Comparison of Robot Wrist Implementations for the iCub Humanoid</title>
+      <link>https://miggia.github.io/publication/content/publication/shah-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/shah-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Control of a Passive Noise Rejecting Variable Stiffness Actuator</title>
+      <link>https://miggia.github.io/publication/content/publication/fiorio-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/fiorio-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Approach for the Optimal Design of the iCub mk.3 Parallel Wrist</title>
+      <link>https://miggia.github.io/publication/content/publication/bsili-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/bsili-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Workspace Analysis for Different Spherical Parallel Mechanisms</title>
+      <link>https://miggia.github.io/publication/content/publication/shah-18-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/shah-18-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workspace Analysis and the Effect of Geometric Parameters for Parallel Mechanisms of the N-UU Class</title>
+      <link>https://miggia.github.io/publication/content/publication/shah-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/shah-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Design and Validation of the R1 Personal Humanoid</title>
+      <link>https://miggia.github.io/publication/content/publication/parmiggiani-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/parmiggiani-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From science to technology: Orientation and mobility in blind children and adults</title>
+      <link>https://miggia.github.io/publication/content/publication/cuturi-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/cuturi-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head and Face Design for a new Humanoid Service Robot</title>
+      <link>https://miggia.github.io/publication/content/publication/lehmann-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/lehmann-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Validation of a Talking Face for the iCub</title>
+      <link>https://miggia.github.io/publication/content/publication/parmiggiani-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/parmiggiani-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the performance of actuators with harmonic drive speed reducers</title>
+      <link>https://miggia.github.io/publication/content/publication/parmiggiani-14-c/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/parmiggiani-14-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor Coordination in a Humanoid Robot: Building Intelligence on the iCub</title>
+      <link>https://miggia.github.io/publication/content/publication/natale-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/natale-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stiction Compensation in Agonist-Antagonist Variable Stiffness Actuators</title>
+      <link>https://miggia.github.io/publication/content/publication/fiorio-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/fiorio-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Evaluation of Standing Stabilization Using Stiff and Compliant Actuators.</title>
+      <link>https://miggia.github.io/publication/content/publication/eljaik-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/eljaik-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of a single Degree of Freedom Noise Rejecting - Variable Impedance Actuator</title>
+      <link>https://miggia.github.io/publication/content/publication/nori-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/nori-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The design of the iCub humanoid robot</title>
+      <link>https://miggia.github.io/publication/content/publication/parmiggiani-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/parmiggiani-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torque control: a study on the iCub humanoid robot</title>
+      <link>https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint torque sensing for the upper-body of the iCub humanoid robot</title>
+      <link>https://miggia.github.io/publication/content/publication/parmiggiani-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/parmiggiani-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

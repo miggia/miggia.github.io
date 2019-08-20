@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Sandini on Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/authors/g.-sandini/</link>
+    <description>Recent content in G. Sandini on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://miggia.github.io/authors/g.-sandini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the effects of internal stiction in pnrVIA actuators</title>
+      <link>https://miggia.github.io/publication/content/publication/fiorio-13/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/fiorio-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pnrVSA: human-like actuator with non-linear springs in agonist-antagonist configuration</title>
+      <link>https://miggia.github.io/publication/content/publication/fiorio-12/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/fiorio-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A force sensor for the control of a human-like tendon driven neck</title>
+      <link>https://miggia.github.io/publication/content/publication/fumagalli-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/fumagalli-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

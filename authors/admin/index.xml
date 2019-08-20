@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/authors/admin/</link>
+    <description>Recent content on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://miggia.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://miggia.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/authors/admin/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve loved making things for as long as I can remember.
+I work to design high performance mechanisms with complex behaviours yet minimal embodiments, exploiting manufacturing constraints to obtain high efficiency and reduced costs.&lt;/p&gt;
+
+&lt;!-- Furthermore I&#39;m interested in the shaping of assembly-free systems that are readily functional right after their manufacturing process. --&gt;
+
+&lt;p&gt;This page features an overview of what I&amp;rsquo;ve been doing in the past few years.&lt;/p&gt;
+
+&lt;h3 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h3&gt;
+
+&lt;p&gt;In 2006 I graduated cum laude in Mechanical Engineering from the Università degli Studi di Modena e Reggio Emilia.
+I then moved to Genova where I started my PhD at the newly founded Istituto Italiano di Tecnologia (IIT).
+There, I worked on the hardware of the iCub humanoid robot under the supervision of Lorenzo Natale, Giorgio Metta and Giulio Sandini.&lt;/p&gt;
+
+&lt;p&gt;After obtaining my PhD I served as the hardware lead of the iCub project as a PostDoc since 2010 and as a Techonologist since 2016.
+In August 2019 I became the coordinator of IIT&amp;rsquo;s mechanical design and fabrication facility.&lt;/p&gt;
+
+&lt;!--
+
+I graduated cum laude in Mechanical Engineering in 2006 from the Università degli Studi di Modena e Reggio Emilia. After graduating I worked shortly as a research assistant on the FEM simulation of biomedical implants under the supervision of Prof. Antonio Strozzi and Prof. Andrea Baldini.
+
+I then moved to Genova where I started my PhD at the newly founded Istituto Italiano di Tecnologia (IIT).
+There I worked on the hardware of the iCub humanoid robot under the supervision of Giorgio Metta and Giulio Sandini.
+
+After obtaining my PhD I served as the hardware lead of the iCub project as a PostDoc since 2010 and as a Techonologist since 2016.
+In August 2019 I became the coordinator of IIT&#39;s design and fabrication facility.
+
+Hi, I&#39;m Alberto.
+I love making robots.
+I work at [IIT](https://www.iit.it) as the lead hardware specialist of the [iCub](http://www.icub.org) and [R1](https://www.youtube.com/watch?v=TBphNGW6m4o) projects.
+
+I strive to design mechanisms with complex behavior in minimal embodiments, for achieving high efficiency, improved interaction, at reduced cost.
+
+
+In my spare time write Python code, draw, and read books.
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

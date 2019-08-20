@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bastien Berret on Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/authors/bastien-berret/</link>
+    <description>Recent content in Bastien Berret on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://miggia.github.io/authors/bastien-berret/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design and Control of a Passive Noise Rejecting Variable Stiffness Actuator</title>
+      <link>https://miggia.github.io/publication/content/publication/fiorio-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/fiorio-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of a single Degree of Freedom Noise Rejecting - Variable Impedance Actuator</title>
+      <link>https://miggia.github.io/publication/content/publication/nori-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/publication/content/publication/nori-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
