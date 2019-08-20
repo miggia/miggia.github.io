@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseé Santos Viktor | Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/it/authors/josee-santos-viktor/</link>
+      <atom:link href="https://miggia.github.io/it/authors/josee-santos-viktor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseé Santos Viktor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Joseé Santos Viktor</title>
+      <link>https://miggia.github.io/it/authors/josee-santos-viktor/</link>
+    </image>
+    
+    <item>
+      <title>The design of the iCub humanoid robot</title>
+      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

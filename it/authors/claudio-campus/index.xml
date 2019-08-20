@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Claudio Campus on Alberto Parmiggiani</title>
+    <title>Claudio Campus | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/claudio-campus/</link>
-    <description>Recent content in Claudio Campus on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/claudio-campus/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/claudio-campus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudio Campus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Claudio Campus</title>
+      <link>https://miggia.github.io/it/authors/claudio-campus/</link>
+    </image>
     
     <item>
       <title>From science to technology: Orientation and mobility in blind children and adults</title>
       <link>https://miggia.github.io/it/publication/content/publication/cuturi-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/cuturi-16/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A. V. Sureshbabu on Alberto Parmiggiani</title>
+    <title>A. V. Sureshbabu | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/authors/a.-v.-sureshbabu/</link>
-    <description>Recent content in A. V. Sureshbabu on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/authors/a.-v.-sureshbabu/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/authors/a.-v.-sureshbabu/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. V. Sureshbabu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>A. V. Sureshbabu</title>
+      <link>https://miggia.github.io/authors/a.-v.-sureshbabu/</link>
+    </image>
     
     <item>
       <title>A new cost effective robot hand for the iCub humanoid</title>
       <link>https://miggia.github.io/publication/content/publication/sureshbabu-15/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/publication/content/publication/sureshbabu-15/</guid>
       <description></description>
     </item>

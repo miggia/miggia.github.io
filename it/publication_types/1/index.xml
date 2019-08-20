@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Alberto Parmiggiani</title>
+    <title>1 | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/publication_types/1/</link>
-    <description>Recent content in 1 on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://miggia.github.io/it/publication_types/1/</link>
+    </image>
     
     <item>
       <title>An Evolutionary Approach for the Optimal Design of the iCub mk.3 Parallel Wrist</title>
       <link>https://miggia.github.io/it/publication/content/publication/bsili-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/bsili-18/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Workspace Analysis and the Effect of Geometric Parameters for Parallel Mechanisms of the N-UU Class</title>
       <link>https://miggia.github.io/it/publication/content/publication/shah-18-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/shah-18-a/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>A parallel kinematic mechanism for the torso of a humanoid robot: Design, construction and validation</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-17/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>The Design and Validation of the R1 Personal Humanoid</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Head and Face Design for a new Humanoid Service Robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/lehmann-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/lehmann-16/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>A new cost effective robot hand for the iCub humanoid</title>
       <link>https://miggia.github.io/it/publication/content/publication/sureshbabu-15/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/sureshbabu-15/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>An articulated talking face for the iCub</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>An alternative approach to robot safety</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>On the performance of actuators with harmonic drive speed reducers</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-c/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-c/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Stiction Compensation in Agonist-Antagonist Variable Stiffness Actuators</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-14/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>On the effects of internal stiction in pnrVIA actuators</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-13/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-13/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Quantitative Evaluation of Standing Stabilization Using Stiff and Compliant Actuators.</title>
       <link>https://miggia.github.io/it/publication/content/publication/eljaik-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/eljaik-13/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>The mechatronic design of the new legs of the iCub robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>pnrVSA: human-like actuator with non-linear springs in agonist-antagonist configuration</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-12/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-12/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title>Water/air performance analysis of a fluidic muscle</title>
       <link>https://miggia.github.io/it/publication/content/publication/focchi-10/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/focchi-10/</guid>
       <description></description>
     </item>
@@ -150,7 +136,6 @@
       <title>A force sensor for the control of a human-like tendon driven neck</title>
       <link>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</guid>
       <description></description>
     </item>
@@ -159,7 +144,6 @@
       <title>Joint torque sensing for the upper-body of the iCub humanoid robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-09/</guid>
       <description></description>
     </item>

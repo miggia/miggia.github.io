@@ -3,23 +3,26 @@
   <channel>
     <title>Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/admin/</link>
-    <description>Recent content on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Alberto Parmiggiani</title>
+      <link>https://miggia.github.io/it/authors/admin/</link>
+    </image>
     
     <item>
       <title></title>
       <link>https://miggia.github.io/it/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/admin/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;ve loved making things for as long as I can remember.
-I work to design high performance mechanisms with complex behaviours yet minimal embodiments, exploiting manufacturing constraints to obtain high efficiency and reduced costs.&lt;/p&gt;
+&lt;p&gt;La costruzione di macchine e dispositivi meccanici mi appassiona da sempre.
+Più in dettaglio mi occupo dello sviluppo di meccanismi ad alte prestazioni con movimentazioni complesse ma di semplice realizzazione, sfruttando i limiti delle tecnologie di fabbricazione per realizzare sistemi efficienti ed economici.&lt;/p&gt;
+
+&lt;!-- I work to design high performance mechanisms with complex behaviours yet minimal embodiments, exploiting manufacturing constraints to obtain high efficiency and reduced costs. --&gt;
 
 &lt;!-- Furthermore I&#39;m interested in the shaping of assembly-free systems that are readily functional right after their manufacturing process. --&gt;
 
@@ -27,9 +30,9 @@ I work to design high performance mechanisms with complex behaviours yet minimal
 
 &lt;h3 id=&#34;breve-biografia&#34;&gt;Breve Biografia&lt;/h3&gt;
 
-&lt;p&gt;Nel 2006 ho conseguito la Laurea Magistrale con lode in Ingegneria Meccanica dall&amp;rsquo;Università degli Studi di Modena e Reggio Emilia.
+&lt;p&gt;Nel 2006 ho conseguito la Laurea Magistrale con lode in Ingegneria Meccanica presso l&amp;rsquo;Università degli Studi di Modena e Reggio Emilia.
 Mi sono poi trasferito a Genova dove ho iniziato il dottorato di ricerca all&amp;rsquo;Istituto Italiano di Tecnologia (IIT).
-In IIT ho lavorato allo sviluppo hardware del robot umanoide iCub con Lorenzo Natale, Giorgio Metta and Giulio Sandini.&lt;/p&gt;
+In IIT, ho lavorato allo sviluppo hardware del robot umanoide iCub con Lorenzo Natale, Giorgio Metta and Giulio Sandini.&lt;/p&gt;
 
 &lt;p&gt;Dopo aver conseguito il dottorato sono rimasto in IIT, dove ho assunto la guida dello sviluppo hardware del progetto iCub, come PostDoc a partire dal 2010 e come Tecnologo dal 2016.
 Nell&amp;rsquo;agosto del 2019 sono diventato il coordinatore della facility IIT per la progettazione e la costruzione di sistemi meccanici.&lt;/p&gt;

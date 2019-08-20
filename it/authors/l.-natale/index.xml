@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L. Natale on Alberto Parmiggiani</title>
+    <title>L. Natale | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/l.-natale/</link>
-    <description>Recent content in L. Natale on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/l.-natale/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/l.-natale/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Natale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>L. Natale</title>
+      <link>https://miggia.github.io/it/authors/l.-natale/</link>
+    </image>
     
     <item>
       <title>A parallel kinematic mechanism for the torso of a humanoid robot: Design, construction and validation</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-17/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>An alternative approach to robot safety</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>A force sensor for the control of a human-like tendon driven neck</title>
       <link>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</guid>
       <description></description>
     </item>

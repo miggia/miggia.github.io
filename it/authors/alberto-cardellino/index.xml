@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alberto Cardellino on Alberto Parmiggiani</title>
+    <title>Alberto Cardellino | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/alberto-cardellino/</link>
-    <description>Recent content in Alberto Cardellino on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/alberto-cardellino/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/alberto-cardellino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Cardellino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Alberto Cardellino</title>
+      <link>https://miggia.github.io/it/authors/alberto-cardellino/</link>
+    </image>
     
     <item>
       <title>The Design and Validation of the R1 Personal Humanoid</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</guid>
       <description></description>
     </item>

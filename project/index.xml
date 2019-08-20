@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Alberto Parmiggiani</title>
+    <title>Projects | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/project/</link>
-    <description>Recent content in Projects on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://miggia.github.io/project/</link>
+    </image>
     
     <item>
       <title>N-UU mechanisms</title>
       <link>https://miggia.github.io/project/n-uu_mechanisms/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/project/n-uu_mechanisms/</guid>
       <description>&lt;p&gt;More recently, our group started directing part of its effort to the study and development of two degrees of freedom (DOF) mechanisms to be employed as robot wrists. As part of these studies, we were the first to report on the asymmetric and anisotropic properties of the workspace of N-UU type mechanisms (a.k.a. OmniWrist III type mechanisms). The main findings of this work were presented in:&lt;/p&gt;
 
@@ -27,7 +27,6 @@
       <title>R1</title>
       <link>https://miggia.github.io/project/r1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/project/r1/</guid>
       <description>&lt;p&gt;The years 2015 and 2016 were entirely devoted to a new project, strongly endorsed by the scientific direction of IIT. The ambitious aim of the project was to design, build and demonstrate a robot functionally equivalent to the iCub humanoid but at one-twentieth (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt;) of the cost.&lt;/p&gt;
 
@@ -53,7 +52,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>iCub expressive face</title>
       <link>https://miggia.github.io/project/icub_expressive_face/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/project/icub_expressive_face/</guid>
       <description>&lt;p&gt;Among the various sub-systems that I developed for the iCub robot was an articulated talking face developed jointly with Prof. Gerard Bailly and Dr Frederic Elisei at the University of Grenoble. The head featured an articulated jaw and four independent lip movements actuated by five motors. The head was covered by a specially designed elastic tissue cover whose hemlines at the lips are attached to the motors via connecting linkages. This variant of the iCub head was later employed for psychometric studies on the perception of speech. The main results of this work were published in:&lt;/p&gt;
 
@@ -65,7 +63,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>iCub SEA legs</title>
       <link>https://miggia.github.io/project/icub_sea_legs/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/project/icub_sea_legs/</guid>
       <description>&lt;p&gt;In 2012 I completed the new design of the legs of the iCub robot. This project was the result of a collaboration with colleagues of the Advanced Robotics department at IIT. The most relevant new feature of the system was the addition of series elastic actuators (SEA). The original SEA design was adapted and optimized through the development of a custom spring based on the curved beam concept. SEA were later used for comparative studies on stiff and compliant robot actuation. A description of the system is presented in:&lt;/p&gt;
 
@@ -77,7 +74,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>iCub2</title>
       <link>https://miggia.github.io/project/icub2/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/project/icub2/</guid>
       <description>&lt;p&gt;Between 2010 and 2011 I focused on the development of several hardware modules that laid the basis for the mechanics of the second version of the iCub robot (iCub2). Besides the original design work, I integrated advanced sensing solutions developed by colleagues specializing in micro-electronics. The new version of the robot integrated an improved system for the position sensing of the electric motor rotors, field oriented control for the brushless DC motors, additional acceleration and angular velocity MEMS sensors, and a full-body skin with approximately 4000 independent pressure measurement points. A detailed description of the results of the project is presented in:&lt;/p&gt;
 

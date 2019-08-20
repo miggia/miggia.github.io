@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G. Bailly on Alberto Parmiggiani</title>
+    <title>G. Bailly | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/g.-bailly/</link>
-    <description>Recent content in G. Bailly on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/g.-bailly/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/g.-bailly/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Bailly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>G. Bailly</title>
+      <link>https://miggia.github.io/it/authors/g.-bailly/</link>
+    </image>
     
     <item>
       <title>An articulated talking face for the iCub</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</guid>
       <description></description>
     </item>

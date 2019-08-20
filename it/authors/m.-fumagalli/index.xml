@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Fumagalli on Alberto Parmiggiani</title>
+    <title>M. Fumagalli | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/m.-fumagalli/</link>
-    <description>Recent content in M. Fumagalli on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/m.-fumagalli/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/m.-fumagalli/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Fumagalli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>M. Fumagalli</title>
+      <link>https://miggia.github.io/it/authors/m.-fumagalli/</link>
+    </image>
     
     <item>
       <title>A force sensor for the control of a human-like tendon driven neck</title>
       <link>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</guid>
       <description></description>
     </item>

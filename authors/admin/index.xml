@@ -3,18 +3,19 @@
   <channel>
     <title>Alberto Parmiggiani</title>
     <link>https://miggia.github.io/authors/admin/</link>
-    <description>Recent content on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="https://miggia.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Alberto Parmiggiani</title>
+      <link>https://miggia.github.io/authors/admin/</link>
+    </image>
     
     <item>
       <title></title>
       <link>https://miggia.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/authors/admin/</guid>
       <description>
 

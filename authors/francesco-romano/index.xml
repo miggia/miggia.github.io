@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francesco Romano on Alberto Parmiggiani</title>
+    <title>Francesco Romano | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/authors/francesco-romano/</link>
-    <description>Recent content in Francesco Romano on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/authors/francesco-romano/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/authors/francesco-romano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Romano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Francesco Romano</title>
+      <link>https://miggia.github.io/authors/francesco-romano/</link>
+    </image>
     
     <item>
       <title>Design and Control of a Passive Noise Rejecting Variable Stiffness Actuator</title>
       <link>https://miggia.github.io/publication/content/publication/fiorio-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/publication/content/publication/fiorio-19/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Stiction Compensation in Agonist-Antagonist Variable Stiffness Actuators</title>
       <link>https://miggia.github.io/publication/content/publication/fiorio-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/publication/content/publication/fiorio-14/</guid>
       <description></description>
     </item>

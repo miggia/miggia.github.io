@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alberto Parmiggiani</title>
+    <title>Posts | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/post/</link>
-    <description>Recent content in Posts on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    
-	    <atom:link href="https://miggia.github.io/it/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://miggia.github.io/it/post/</link>
+    </image>
     
   </channel>
 </rss>

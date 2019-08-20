@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Alberto Parmiggiani</title>
+    <title>Authors | Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/authors/</link>
-    <description>Recent content in Authors on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://miggia.github.io/it/authors/</link>
+    </image>
     
     <item>
       <title>Alberto Parmiggiani</title>
       <link>https://miggia.github.io/it/authors/alberto-parmiggiani/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/alberto-parmiggiani/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Alessandro Scalzo</title>
       <link>https://miggia.github.io/it/authors/alessandro-scalzo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/alessandro-scalzo/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Bastien Berret</title>
       <link>https://miggia.github.io/it/authors/bastien-berret/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/bastien-berret/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Divya Shah</title>
       <link>https://miggia.github.io/it/authors/divya-shah/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/divya-shah/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Francesco Nori</title>
       <link>https://miggia.github.io/it/authors/francesco-nori/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/francesco-nori/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Francesco Romano</title>
       <link>https://miggia.github.io/it/authors/francesco-romano/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/francesco-romano/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Giorgio Metta</title>
       <link>https://miggia.github.io/it/authors/giorgio-metta/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/giorgio-metta/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Luca Fiorio</title>
       <link>https://miggia.github.io/it/authors/luca-fiorio/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/luca-fiorio/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Yuanqing Wu</title>
       <link>https://miggia.github.io/it/authors/yuanqing-wu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/yuanqing-wu/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Raed Bsili</title>
       <link>https://miggia.github.io/it/authors/raed-bsili/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/raed-bsili/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>A. Parmiggiani</title>
       <link>https://miggia.github.io/it/authors/a.-parmiggiani/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/a.-parmiggiani/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>A. Scalzo</title>
       <link>https://miggia.github.io/it/authors/a.-scalzo/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/a.-scalzo/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>G. Metta</title>
       <link>https://miggia.github.io/it/authors/g.-metta/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/g.-metta/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>L. Fiorio</title>
       <link>https://miggia.github.io/it/authors/l.-fiorio/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/l.-fiorio/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title>L. Natale</title>
       <link>https://miggia.github.io/it/authors/l.-natale/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/l.-natale/</guid>
       <description></description>
     </item>
@@ -150,7 +136,6 @@
       <title>Alberto Cardellino</title>
       <link>https://miggia.github.io/it/authors/alberto-cardellino/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/alberto-cardellino/</guid>
       <description></description>
     </item>
@@ -159,7 +144,6 @@
       <title>Anand Vazhapilli Sureshbabu</title>
       <link>https://miggia.github.io/it/authors/anand-vazhapilli-sureshbabu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/anand-vazhapilli-sureshbabu/</guid>
       <description></description>
     </item>
@@ -168,7 +152,6 @@
       <title>Daniele Domenichelli</title>
       <link>https://miggia.github.io/it/authors/daniele-domenichelli/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/daniele-domenichelli/</guid>
       <description></description>
     </item>
@@ -177,7 +160,6 @@
       <title>Hagen Lehmann</title>
       <link>https://miggia.github.io/it/authors/hagen-lehmann/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/hagen-lehmann/</guid>
       <description></description>
     </item>
@@ -186,7 +168,6 @@
       <title>Lorenzo Natale</title>
       <link>https://miggia.github.io/it/authors/lorenzo-natale/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/lorenzo-natale/</guid>
       <description></description>
     </item>
@@ -195,7 +176,6 @@
       <title>Marco Maggiali</title>
       <link>https://miggia.github.io/it/authors/marco-maggiali/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/marco-maggiali/</guid>
       <description></description>
     </item>
@@ -204,7 +184,6 @@
       <title>Marco Randazzo</title>
       <link>https://miggia.github.io/it/authors/marco-randazzo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/marco-randazzo/</guid>
       <description></description>
     </item>
@@ -213,7 +192,6 @@
       <title>Pierpaolo Congiu</title>
       <link>https://miggia.github.io/it/authors/pierpaolo-congiu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/pierpaolo-congiu/</guid>
       <description></description>
     </item>
@@ -222,7 +200,6 @@
       <title>Roberto Cingolani</title>
       <link>https://miggia.github.io/it/authors/roberto-cingolani/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/roberto-cingolani/</guid>
       <description></description>
     </item>
@@ -231,7 +208,6 @@
       <title>Ugo Pattacini</title>
       <link>https://miggia.github.io/it/authors/ugo-pattacini/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/ugo-pattacini/</guid>
       <description></description>
     </item>
@@ -240,7 +216,6 @@
       <title>Vadim Tikhanoff</title>
       <link>https://miggia.github.io/it/authors/vadim-tikhanoff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/vadim-tikhanoff/</guid>
       <description></description>
     </item>
@@ -249,7 +224,6 @@
       <title>Claudio Campus</title>
       <link>https://miggia.github.io/it/authors/claudio-campus/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/claudio-campus/</guid>
       <description></description>
     </item>
@@ -258,7 +232,6 @@
       <title>Elena Aggius-Vella</title>
       <link>https://miggia.github.io/it/authors/elena-aggius-vella/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/elena-aggius-vella/</guid>
       <description></description>
     </item>
@@ -267,7 +240,6 @@
       <title>Luigi F. Cuturi</title>
       <link>https://miggia.github.io/it/authors/luigi-f.-cuturi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/luigi-f.-cuturi/</guid>
       <description></description>
     </item>
@@ -276,7 +248,6 @@
       <title>Monica Gori</title>
       <link>https://miggia.github.io/it/authors/monica-gori/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/monica-gori/</guid>
       <description></description>
     </item>
@@ -285,26 +256,23 @@
       <title>A. V. Sureshbabu</title>
       <link>https://miggia.github.io/it/authors/a.-v.-sureshbabu/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/a.-v.-sureshbabu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frédéric Elisei</title>
-      <link>https://miggia.github.io/it/authors/fr%C3%A9d%C3%A9ric-elisei/</link>
+      <link>https://miggia.github.io/it/authors/frederic-elisei/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://miggia.github.io/it/authors/fr%C3%A9d%C3%A9ric-elisei/</guid>
+      <guid>https://miggia.github.io/it/authors/frederic-elisei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gérard Bailly</title>
-      <link>https://miggia.github.io/it/authors/g%C3%A9rard-bailly/</link>
+      <link>https://miggia.github.io/it/authors/gerard-bailly/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://miggia.github.io/it/authors/g%C3%A9rard-bailly/</guid>
+      <guid>https://miggia.github.io/it/authors/gerard-bailly/</guid>
       <description></description>
     </item>
     
@@ -312,7 +280,6 @@
       <title>F. Elisei</title>
       <link>https://miggia.github.io/it/authors/f.-elisei/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/f.-elisei/</guid>
       <description></description>
     </item>
@@ -321,7 +288,6 @@
       <title>G. Bailly</title>
       <link>https://miggia.github.io/it/authors/g.-bailly/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/g.-bailly/</guid>
       <description></description>
     </item>
@@ -330,7 +296,6 @@
       <title>M. Maggiali</title>
       <link>https://miggia.github.io/it/authors/m.-maggiali/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/m.-maggiali/</guid>
       <description></description>
     </item>
@@ -339,7 +304,6 @@
       <title>M. Randazzo</title>
       <link>https://miggia.github.io/it/authors/m.-randazzo/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/m.-randazzo/</guid>
       <description></description>
     </item>
@@ -348,7 +312,6 @@
       <title>Giulio Sandini</title>
       <link>https://miggia.github.io/it/authors/giulio-sandini/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/giulio-sandini/</guid>
       <description></description>
     </item>
@@ -357,7 +320,6 @@
       <title>F. Nori</title>
       <link>https://miggia.github.io/it/authors/f.-nori/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/f.-nori/</guid>
       <description></description>
     </item>
@@ -366,7 +328,6 @@
       <title>F. Romano</title>
       <link>https://miggia.github.io/it/authors/f.-romano/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/f.-romano/</guid>
       <description></description>
     </item>
@@ -375,7 +336,6 @@
       <title>G. Sandini</title>
       <link>https://miggia.github.io/it/authors/g.-sandini/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/g.-sandini/</guid>
       <description></description>
     </item>
@@ -384,7 +344,6 @@
       <title>Jorhabib Eljaik</title>
       <link>https://miggia.github.io/it/authors/jorhabib-eljaik/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/jorhabib-eljaik/</guid>
       <description></description>
     </item>
@@ -393,7 +352,6 @@
       <title>Nikos G Tsagarakis</title>
       <link>https://miggia.github.io/it/authors/nikos-g-tsagarakis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/nikos-g-tsagarakis/</guid>
       <description></description>
     </item>
@@ -402,7 +360,6 @@
       <title>Zhibin Li</title>
       <link>https://miggia.github.io/it/authors/zhibin-li/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/zhibin-li/</guid>
       <description></description>
     </item>
@@ -411,7 +368,6 @@
       <title>B. Berret</title>
       <link>https://miggia.github.io/it/authors/b.-berret/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/b.-berret/</guid>
       <description></description>
     </item>
@@ -420,7 +376,6 @@
       <title>N. Tsagarakis</title>
       <link>https://miggia.github.io/it/authors/n.-tsagarakis/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/n.-tsagarakis/</guid>
       <description></description>
     </item>
@@ -429,7 +384,6 @@
       <title>Alexander Schmitz</title>
       <link>https://miggia.github.io/it/authors/alexander-schmitz/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/alexander-schmitz/</guid>
       <description></description>
     </item>
@@ -438,17 +392,15 @@
       <title>Francesco Becchi</title>
       <link>https://miggia.github.io/it/authors/francesco-becchi/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/francesco-becchi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joseé Santos Viktor</title>
-      <link>https://miggia.github.io/it/authors/jose%C3%A9-santos-viktor/</link>
+      <link>https://miggia.github.io/it/authors/josee-santos-viktor/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://miggia.github.io/it/authors/jose%C3%A9-santos-viktor/</guid>
+      <guid>https://miggia.github.io/it/authors/josee-santos-viktor/</guid>
       <description></description>
     </item>
     
@@ -456,7 +408,6 @@
       <title>Nikos Tsagarakis</title>
       <link>https://miggia.github.io/it/authors/nikos-tsagarakis/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/nikos-tsagarakis/</guid>
       <description></description>
     </item>
@@ -465,7 +416,6 @@
       <title>B. Vanderborght</title>
       <link>https://miggia.github.io/it/authors/b.-vanderborght/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/b.-vanderborght/</guid>
       <description></description>
     </item>
@@ -474,7 +424,6 @@
       <title>C. Semini</title>
       <link>https://miggia.github.io/it/authors/c.-semini/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/c.-semini/</guid>
       <description></description>
     </item>
@@ -483,7 +432,6 @@
       <title>D. G. Caldwell</title>
       <link>https://miggia.github.io/it/authors/d.-g.-caldwell/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/d.-g.-caldwell/</guid>
       <description></description>
     </item>
@@ -492,7 +440,6 @@
       <title>E. Guglielmino</title>
       <link>https://miggia.github.io/it/authors/e.-guglielmino/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/e.-guglielmino/</guid>
       <description></description>
     </item>
@@ -501,7 +448,6 @@
       <title>M. Focchi</title>
       <link>https://miggia.github.io/it/authors/m.-focchi/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/m.-focchi/</guid>
       <description></description>
     </item>
@@ -510,7 +456,6 @@
       <title>L. Jamone</title>
       <link>https://miggia.github.io/it/authors/l.-jamone/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/l.-jamone/</guid>
       <description></description>
     </item>
@@ -519,7 +464,6 @@
       <title>M. Fumagalli</title>
       <link>https://miggia.github.io/it/authors/m.-fumagalli/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/m.-fumagalli/</guid>
       <description></description>
     </item>
@@ -528,12 +472,13 @@
       <title></title>
       <link>https://miggia.github.io/it/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/authors/admin/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;ve loved making things for as long as I can remember.
-I work to design high performance mechanisms with complex behaviours yet minimal embodiments, exploiting manufacturing constraints to obtain high efficiency and reduced costs.&lt;/p&gt;
+&lt;p&gt;La costruzione di macchine e dispositivi meccanici mi appassiona da sempre.
+Più in dettaglio mi occupo dello sviluppo di meccanismi ad alte prestazioni con movimentazioni complesse ma di semplice realizzazione, sfruttando i limiti delle tecnologie di fabbricazione per realizzare sistemi efficienti ed economici.&lt;/p&gt;
+
+&lt;!-- I work to design high performance mechanisms with complex behaviours yet minimal embodiments, exploiting manufacturing constraints to obtain high efficiency and reduced costs. --&gt;
 
 &lt;!-- Furthermore I&#39;m interested in the shaping of assembly-free systems that are readily functional right after their manufacturing process. --&gt;
 
@@ -541,9 +486,9 @@ I work to design high performance mechanisms with complex behaviours yet minimal
 
 &lt;h3 id=&#34;breve-biografia&#34;&gt;Breve Biografia&lt;/h3&gt;
 
-&lt;p&gt;Nel 2006 ho conseguito la Laurea Magistrale con lode in Ingegneria Meccanica dall&amp;rsquo;Università degli Studi di Modena e Reggio Emilia.
+&lt;p&gt;Nel 2006 ho conseguito la Laurea Magistrale con lode in Ingegneria Meccanica presso l&amp;rsquo;Università degli Studi di Modena e Reggio Emilia.
 Mi sono poi trasferito a Genova dove ho iniziato il dottorato di ricerca all&amp;rsquo;Istituto Italiano di Tecnologia (IIT).
-In IIT ho lavorato allo sviluppo hardware del robot umanoide iCub con Lorenzo Natale, Giorgio Metta and Giulio Sandini.&lt;/p&gt;
+In IIT, ho lavorato allo sviluppo hardware del robot umanoide iCub con Lorenzo Natale, Giorgio Metta and Giulio Sandini.&lt;/p&gt;
 
 &lt;p&gt;Dopo aver conseguito il dottorato sono rimasto in IIT, dove ho assunto la guida dello sviluppo hardware del progetto iCub, come PostDoc a partire dal 2010 e come Tecnologo dal 2016.
 Nell&amp;rsquo;agosto del 2019 sono diventato il coordinatore della facility IIT per la progettazione e la costruzione di sistemi meccanici.&lt;/p&gt;

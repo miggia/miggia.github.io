@@ -3,19 +3,19 @@
   <channel>
     <title>Alberto Parmiggiani</title>
     <link>https://miggia.github.io/it/</link>
-    <description>Recent content on Alberto Parmiggiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>it</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://miggia.github.io/it/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://miggia.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>it</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/img/icon-192.png</url>
+      <title>Alberto Parmiggiani</title>
+      <link>https://miggia.github.io/it/</link>
+    </image>
     
     <item>
       <title>A Comparison of Robot Wrist Implementations for the iCub Humanoid</title>
       <link>https://miggia.github.io/it/publication/content/publication/shah-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/shah-19/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Design and Control of a Passive Noise Rejecting Variable Stiffness Actuator</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-19/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>An Evolutionary Approach for the Optimal Design of the iCub mk.3 Parallel Wrist</title>
       <link>https://miggia.github.io/it/publication/content/publication/bsili-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/bsili-18/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Comparison of Workspace Analysis for Different Spherical Parallel Mechanisms</title>
       <link>https://miggia.github.io/it/publication/content/publication/shah-18-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/shah-18-b/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>N-UU mechanisms</title>
       <link>https://miggia.github.io/it/project/n-uu_mechanisms/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/project/n-uu_mechanisms/</guid>
       <description>&lt;p&gt;More recently, our group started directing part of its effort to the study and development of two degrees of freedom (DOF) mechanisms to be employed as robot wrists. As part of these studies, we were the first to report on the asymmetric and anisotropic properties of the workspace of N-UU type mechanisms (a.k.a. OmniWrist III type mechanisms). The main findings of this work were presented in:&lt;/p&gt;
 
@@ -63,7 +59,6 @@
       <title>Workspace Analysis and the Effect of Geometric Parameters for Parallel Mechanisms of the N-UU Class</title>
       <link>https://miggia.github.io/it/publication/content/publication/shah-18-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/shah-18-a/</guid>
       <description></description>
     </item>
@@ -72,7 +67,6 @@
       <title>A parallel kinematic mechanism for the torso of a humanoid robot: Design, construction and validation</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-17/</guid>
       <description></description>
     </item>
@@ -81,7 +75,6 @@
       <title>The Design and Validation of the R1 Personal Humanoid</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</guid>
       <description></description>
     </item>
@@ -90,7 +83,6 @@
       <title>From science to technology: Orientation and mobility in blind children and adults</title>
       <link>https://miggia.github.io/it/publication/content/publication/cuturi-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/cuturi-16/</guid>
       <description></description>
     </item>
@@ -99,7 +91,6 @@
       <title>Head and Face Design for a new Humanoid Service Robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/lehmann-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/lehmann-16/</guid>
       <description></description>
     </item>
@@ -108,7 +99,6 @@
       <title>A new cost effective robot hand for the iCub humanoid</title>
       <link>https://miggia.github.io/it/publication/content/publication/sureshbabu-15/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/sureshbabu-15/</guid>
       <description></description>
     </item>
@@ -117,7 +107,6 @@
       <title>Design and Validation of a Talking Face for the iCub</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-15/</guid>
       <description></description>
     </item>
@@ -126,7 +115,6 @@
       <title>R1</title>
       <link>https://miggia.github.io/it/project/r1/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/project/r1/</guid>
       <description>&lt;p&gt;The years 2015 and 2016 were entirely devoted to a new project, strongly endorsed by the scientific direction of IIT. The ambitious aim of the project was to design, build and demonstrate a robot functionally equivalent to the iCub humanoid but at one-twentieth (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt;) of the cost.&lt;/p&gt;
 
@@ -152,7 +140,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>An articulated talking face for the iCub</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</guid>
       <description></description>
     </item>
@@ -161,7 +148,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>An alternative approach to robot safety</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</guid>
       <description></description>
     </item>
@@ -170,7 +156,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>On the performance of actuators with harmonic drive speed reducers</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-c/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-c/</guid>
       <description></description>
     </item>
@@ -179,7 +164,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Sensorimotor Coordination in a Humanoid Robot: Building Intelligence on the iCub</title>
       <link>https://miggia.github.io/it/publication/content/publication/natale-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/natale-14/</guid>
       <description></description>
     </item>
@@ -188,7 +172,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Stiction Compensation in Agonist-Antagonist Variable Stiffness Actuators</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-14/</guid>
       <description></description>
     </item>
@@ -197,7 +180,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>On the effects of internal stiction in pnrVIA actuators</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-13/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-13/</guid>
       <description></description>
     </item>
@@ -206,7 +188,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Quantitative Evaluation of Standing Stabilization Using Stiff and Compliant Actuators.</title>
       <link>https://miggia.github.io/it/publication/content/publication/eljaik-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/eljaik-13/</guid>
       <description></description>
     </item>
@@ -215,7 +196,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>iCub expressive face</title>
       <link>https://miggia.github.io/it/project/icub_expressive_face/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/project/icub_expressive_face/</guid>
       <description>&lt;p&gt;Among the various sub-systems that I developed for the iCub robot was an articulated talking face developed jointly with Prof. Gerard Bailly and Dr Frederic Elisei at the University of Grenoble. The head featured an articulated jaw and four independent lip movements actuated by five motors. The head was covered by a specially designed elastic tissue cover whose hemlines at the lips are attached to the motors via connecting linkages. This variant of the iCub head was later employed for psychometric studies on the perception of speech. The main results of this work were published in:&lt;/p&gt;
 
@@ -227,7 +207,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>The mechatronic design of the new legs of the iCub robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</guid>
       <description></description>
     </item>
@@ -236,7 +215,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>pnrVSA: human-like actuator with non-linear springs in agonist-antagonist configuration</title>
       <link>https://miggia.github.io/it/publication/content/publication/fiorio-12/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fiorio-12/</guid>
       <description></description>
     </item>
@@ -245,7 +223,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Control of a single Degree of Freedom Noise Rejecting - Variable Impedance Actuator</title>
       <link>https://miggia.github.io/it/publication/content/publication/nori-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/nori-12/</guid>
       <description></description>
     </item>
@@ -254,7 +231,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>The design of the iCub humanoid robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</guid>
       <description></description>
     </item>
@@ -263,7 +239,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>iCub SEA legs</title>
       <link>https://miggia.github.io/it/project/icub_sea_legs/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/project/icub_sea_legs/</guid>
       <description>&lt;p&gt;In 2012 I completed the new design of the legs of the iCub robot. This project was the result of a collaboration with colleagues of the Advanced Robotics department at IIT. The most relevant new feature of the system was the addition of series elastic actuators (SEA). The original SEA design was adapted and optimized through the development of a custom spring based on the curved beam concept. SEA were later used for comparative studies on stiff and compliant robot actuation. A description of the system is presented in:&lt;/p&gt;
 
@@ -275,7 +250,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Water/air performance analysis of a fluidic muscle</title>
       <link>https://miggia.github.io/it/publication/content/publication/focchi-10/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/focchi-10/</guid>
       <description></description>
     </item>
@@ -284,7 +258,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Torque control: a study on the iCub humanoid robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</guid>
       <description></description>
     </item>
@@ -293,7 +266,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>iCub2</title>
       <link>https://miggia.github.io/it/project/icub2/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/project/icub2/</guid>
       <description>&lt;p&gt;Between 2010 and 2011 I focused on the development of several hardware modules that laid the basis for the mechanics of the second version of the iCub robot (iCub2). Besides the original design work, I integrated advanced sensing solutions developed by colleagues specializing in micro-electronics. The new version of the robot integrated an improved system for the position sensing of the electric motor rotors, field oriented control for the brushless DC motors, additional acceleration and angular velocity MEMS sensors, and a full-body skin with approximately 4000 independent pressure measurement points. A detailed description of the results of the project is presented in:&lt;/p&gt;
 
@@ -305,7 +277,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>A force sensor for the control of a human-like tendon driven neck</title>
       <link>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</guid>
       <description></description>
     </item>
@@ -314,7 +285,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
       <title>Joint torque sensing for the upper-body of the iCub humanoid robot</title>
       <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-09/</guid>
       <description></description>
     </item>
