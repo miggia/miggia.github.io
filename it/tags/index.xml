@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/it/tags/</link>
+    <description>Recent content in Tags on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://miggia.github.io/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CAD simulation</title>
+      <link>https://miggia.github.io/it/tags/cad-simulation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/tags/cad-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mechanism design</title>
+      <link>https://miggia.github.io/it/tags/mechanism-design/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/tags/mechanism-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spherical parallel mechanisms</title>
+      <link>https://miggia.github.io/it/tags/spherical-parallel-mechanisms/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/tags/spherical-parallel-mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workspace analysis</title>
+      <link>https://miggia.github.io/it/tags/workspace-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/tags/workspace-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humanoids design</title>
+      <link>https://miggia.github.io/it/tags/humanoids-design/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/tags/humanoids-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iCub</title>
+      <link>https://miggia.github.io/it/tags/icub/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/tags/icub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anand Vazhapilli Sureshbabu on Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/it/authors/anand-vazhapilli-sureshbabu/</link>
+    <description>Recent content in Anand Vazhapilli Sureshbabu on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>it</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://miggia.github.io/it/authors/anand-vazhapilli-sureshbabu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Design and Validation of the R1 Personal Humanoid</title>
+      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head and Face Design for a new Humanoid Service Robot</title>
+      <link>https://miggia.github.io/it/publication/content/publication/lehmann-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/lehmann-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

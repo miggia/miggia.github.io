@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Nori on Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/it/authors/francesco-nori/</link>
+    <description>Recent content in Francesco Nori on Alberto Parmiggiani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>it</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://miggia.github.io/it/authors/francesco-nori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design and Control of a Passive Noise Rejecting Variable Stiffness Actuator</title>
+      <link>https://miggia.github.io/it/publication/content/publication/fiorio-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/fiorio-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor Coordination in a Humanoid Robot: Building Intelligence on the iCub</title>
+      <link>https://miggia.github.io/it/publication/content/publication/natale-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/natale-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stiction Compensation in Agonist-Antagonist Variable Stiffness Actuators</title>
+      <link>https://miggia.github.io/it/publication/content/publication/fiorio-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/fiorio-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Evaluation of Standing Stabilization Using Stiff and Compliant Actuators.</title>
+      <link>https://miggia.github.io/it/publication/content/publication/eljaik-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/eljaik-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of a single Degree of Freedom Noise Rejecting - Variable Impedance Actuator</title>
+      <link>https://miggia.github.io/it/publication/content/publication/nori-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/nori-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The design of the iCub humanoid robot</title>
+      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
