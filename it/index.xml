@@ -185,14 +185,6 @@ An introductory video about the robot can be found [here](https://www.youtube.co
     </item>
     
     <item>
-      <title>Quantitative Evaluation of Standing Stabilization Using Stiff and Compliant Actuators.</title>
-      <link>https://miggia.github.io/it/publication/content/publication/eljaik-13/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://miggia.github.io/it/publication/content/publication/eljaik-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>iCub expressive face</title>
       <link>https://miggia.github.io/it/project/icub_expressive_face/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -204,10 +196,10 @@ An introductory video about the robot can be found [here](https://www.youtube.co
     </item>
     
     <item>
-      <title>The mechatronic design of the new legs of the iCub robot</title>
-      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</guid>
+      <title>Quantitative Evaluation of Standing Stabilization Using Stiff and Compliant Actuators.</title>
+      <link>https://miggia.github.io/it/publication/content/publication/eljaik-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/it/publication/content/publication/eljaik-13/</guid>
       <description></description>
     </item>
     
@@ -220,18 +212,18 @@ An introductory video about the robot can be found [here](https://www.youtube.co
     </item>
     
     <item>
-      <title>Control of a single Degree of Freedom Noise Rejecting - Variable Impedance Actuator</title>
-      <link>https://miggia.github.io/it/publication/content/publication/nori-12/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://miggia.github.io/it/publication/content/publication/nori-12/</guid>
+      <title>The mechatronic design of the new legs of the iCub robot</title>
+      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The design of the iCub humanoid robot</title>
-      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</link>
+      <title>Control of a single Degree of Freedom Noise Rejecting - Variable Impedance Actuator</title>
+      <link>https://miggia.github.io/it/publication/content/publication/nori-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</guid>
+      <guid>https://miggia.github.io/it/publication/content/publication/nori-12/</guid>
       <description></description>
     </item>
     
@@ -247,18 +239,18 @@ An introductory video about the robot can be found [here](https://www.youtube.co
     </item>
     
     <item>
-      <title>Water/air performance analysis of a fluidic muscle</title>
-      <link>https://miggia.github.io/it/publication/content/publication/focchi-10/</link>
-      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://miggia.github.io/it/publication/content/publication/focchi-10/</guid>
+      <title>The design of the iCub humanoid robot</title>
+      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Torque control: a study on the iCub humanoid robot</title>
-      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</guid>
+      <title>Water/air performance analysis of a fluidic muscle</title>
+      <link>https://miggia.github.io/it/publication/content/publication/focchi-10/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/it/publication/content/publication/focchi-10/</guid>
       <description></description>
     </item>
     
@@ -271,6 +263,14 @@ An introductory video about the robot can be found [here](https://www.youtube.co
 
 &lt;p&gt;Parmiggiani, A., Maggiali, M., Natale, L., Nori, F., Schmitz, A., Tsagarakis, N., … Metta, G. (2012). The design of the iCub humanoid robot. International Journal of Humanoid Robotics, 9. DOI: 10.1142/S0219843612500272&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Torque control: a study on the iCub humanoid robot</title>
+      <link>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</guid>
+      <description></description>
     </item>
     
     <item>

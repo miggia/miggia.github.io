@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://miggia.github.io/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -21,7 +20,6 @@
   <url>
     <loc>https://miggia.github.io/publication_types/6/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -52,7 +50,6 @@
   <url>
     <loc>https://miggia.github.io/authors/alberto-parmiggiani/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -68,7 +65,6 @@
   <url>
     <loc>https://miggia.github.io/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -84,7 +80,6 @@
   <url>
     <loc>https://miggia.github.io/authors/alessandro-scalzo/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -100,7 +95,6 @@
   <url>
     <loc>https://miggia.github.io/authors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -116,7 +110,6 @@
   <url>
     <loc>https://miggia.github.io/authors/bastien-berret/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -147,7 +140,6 @@
   <url>
     <loc>https://miggia.github.io/authors/divya-shah/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -163,7 +155,6 @@
   <url>
     <loc>https://miggia.github.io/authors/francesco-nori/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -179,7 +170,6 @@
   <url>
     <loc>https://miggia.github.io/authors/francesco-romano/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -195,7 +185,6 @@
   <url>
     <loc>https://miggia.github.io/authors/giorgio-metta/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -211,7 +200,6 @@
   <url>
     <loc>https://miggia.github.io/authors/luca-fiorio/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -227,7 +215,6 @@
   <url>
     <loc>https://miggia.github.io/publication_types/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -258,7 +245,6 @@
   <url>
     <loc>https://miggia.github.io/authors/yuanqing-wu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -274,7 +260,6 @@
   <url>
     <loc>https://miggia.github.io/publication_types/1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -305,7 +290,6 @@
   <url>
     <loc>https://miggia.github.io/tags/cad-simulation/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -334,6 +318,21 @@
   </url>
   
   <url>
+    <loc>https://miggia.github.io/tags/mechanism-design/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tags/mechanism-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tags/mechanism-design/"
+                />
+  </url>
+  
+  <url>
     <loc>https://miggia.github.io/project/n-uu_mechanisms/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -351,7 +350,6 @@
   <url>
     <loc>https://miggia.github.io/project/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -367,7 +365,6 @@
   <url>
     <loc>https://miggia.github.io/authors/raed-bsili/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -381,9 +378,23 @@
   </url>
   
   <url>
+    <loc>https://miggia.github.io/tags/spherical-parallel-mechanisms/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tags/spherical-parallel-mechanisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tags/spherical-parallel-mechanisms/"
+                />
+  </url>
+  
+  <url>
     <loc>https://miggia.github.io/tags/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -393,6 +404,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://miggia.github.io/tags/workspace-analysis/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tags/workspace-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tags/workspace-analysis/"
                 />
   </url>
   
@@ -408,54 +434,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/publication/content/publication/shah-18-a/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/tags/mechanism-design/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/mechanism-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/mechanism-design/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/tags/spherical-parallel-mechanisms/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/spherical-parallel-mechanisms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/spherical-parallel-mechanisms/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/tags/workspace-analysis/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/workspace-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/workspace-analysis/"
                 />
   </url>
   
@@ -477,7 +455,6 @@
   <url>
     <loc>https://miggia.github.io/authors/a.-parmiggiani/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -493,7 +470,6 @@
   <url>
     <loc>https://miggia.github.io/authors/a.-scalzo/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -509,7 +485,6 @@
   <url>
     <loc>https://miggia.github.io/authors/g.-metta/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -525,7 +500,6 @@
   <url>
     <loc>https://miggia.github.io/authors/l.-fiorio/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -541,7 +515,6 @@
   <url>
     <loc>https://miggia.github.io/authors/l.-natale/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -557,7 +530,6 @@
   <url>
     <loc>https://miggia.github.io/authors/alberto-cardellino/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -573,7 +545,6 @@
   <url>
     <loc>https://miggia.github.io/authors/anand-vazhapilli-sureshbabu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -589,7 +560,6 @@
   <url>
     <loc>https://miggia.github.io/authors/daniele-domenichelli/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -605,7 +575,6 @@
   <url>
     <loc>https://miggia.github.io/authors/hagen-lehmann/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -621,7 +590,6 @@
   <url>
     <loc>https://miggia.github.io/authors/lorenzo-natale/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -637,7 +605,6 @@
   <url>
     <loc>https://miggia.github.io/authors/marco-maggiali/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -653,7 +620,6 @@
   <url>
     <loc>https://miggia.github.io/authors/marco-randazzo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -669,7 +635,6 @@
   <url>
     <loc>https://miggia.github.io/authors/pierpaolo-congiu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -685,7 +650,6 @@
   <url>
     <loc>https://miggia.github.io/authors/roberto-cingolani/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -716,7 +680,6 @@
   <url>
     <loc>https://miggia.github.io/authors/ugo-pattacini/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -732,7 +695,6 @@
   <url>
     <loc>https://miggia.github.io/authors/vadim-tikhanoff/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -748,7 +710,6 @@
   <url>
     <loc>https://miggia.github.io/authors/claudio-campus/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -764,7 +725,6 @@
   <url>
     <loc>https://miggia.github.io/authors/elena-aggius-vella/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -810,7 +770,6 @@
   <url>
     <loc>https://miggia.github.io/authors/luigi-f.-cuturi/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -826,7 +785,6 @@
   <url>
     <loc>https://miggia.github.io/authors/monica-gori/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -857,7 +815,6 @@
   <url>
     <loc>https://miggia.github.io/authors/a.-v.-sureshbabu/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -888,7 +845,6 @@
   <url>
     <loc>https://miggia.github.io/authors/frederic-elisei/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -904,7 +860,6 @@
   <url>
     <loc>https://miggia.github.io/authors/gerard-bailly/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -950,7 +905,6 @@
   <url>
     <loc>https://miggia.github.io/authors/f.-elisei/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -966,7 +920,6 @@
   <url>
     <loc>https://miggia.github.io/authors/g.-bailly/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -982,7 +935,6 @@
   <url>
     <loc>https://miggia.github.io/authors/m.-maggiali/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -998,7 +950,6 @@
   <url>
     <loc>https://miggia.github.io/authors/m.-randazzo/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1029,7 +980,6 @@
   <url>
     <loc>https://miggia.github.io/authors/giulio-sandini/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1090,7 +1040,6 @@
   <url>
     <loc>https://miggia.github.io/authors/f.-nori/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1106,7 +1055,6 @@
   <url>
     <loc>https://miggia.github.io/authors/f.-romano/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1122,7 +1070,6 @@
   <url>
     <loc>https://miggia.github.io/authors/g.-sandini/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1151,9 +1098,23 @@
   </url>
   
   <url>
+    <loc>https://miggia.github.io/project/icub_expressive_face/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/project/icub_expressive_face/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/project/icub_expressive_face/"
+                />
+  </url>
+  
+  <url>
     <loc>https://miggia.github.io/authors/jorhabib-eljaik/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1169,7 +1130,6 @@
   <url>
     <loc>https://miggia.github.io/authors/nikos-g-tsagarakis/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1200,7 +1160,6 @@
   <url>
     <loc>https://miggia.github.io/authors/zhibin-li/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1214,24 +1173,8 @@
   </url>
   
   <url>
-    <loc>https://miggia.github.io/project/icub_expressive_face/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/project/icub_expressive_face/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/project/icub_expressive_face/"
-                />
-  </url>
-  
-  <url>
     <loc>https://miggia.github.io/authors/b.-berret/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1247,7 +1190,6 @@
   <url>
     <loc>https://miggia.github.io/authors/n.-tsagarakis/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1257,21 +1199,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/authors/n.-tsagarakis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/publication/content/publication/parmiggiani-12-b/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-12-b/"
                 />
   </url>
   
@@ -1291,9 +1218,23 @@
   </url>
   
   <url>
+    <loc>https://miggia.github.io/publication/content/publication/parmiggiani-12-b/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/content/publication/parmiggiani-12-b/"
+                />
+  </url>
+  
+  <url>
     <loc>https://miggia.github.io/authors/alexander-schmitz/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1324,7 +1265,6 @@
   <url>
     <loc>https://miggia.github.io/authors/francesco-becchi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1338,56 +1278,8 @@
   </url>
   
   <url>
-    <loc>https://miggia.github.io/authors/josee-santos-viktor/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/josee-santos-viktor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/josee-santos-viktor/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/authors/nikos-tsagarakis/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/nikos-tsagarakis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/nikos-tsagarakis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/publication/content/publication/parmiggiani-12/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-12/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-12/"
-                />
-  </url>
-  
-  <url>
     <loc>https://miggia.github.io/tags/humanoids-design/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1403,7 +1295,6 @@
   <url>
     <loc>https://miggia.github.io/tags/icub/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1432,9 +1323,53 @@
   </url>
   
   <url>
+    <loc>https://miggia.github.io/authors/josee-santos-viktor/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/authors/josee-santos-viktor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/authors/josee-santos-viktor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://miggia.github.io/authors/nikos-tsagarakis/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/authors/nikos-tsagarakis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/authors/nikos-tsagarakis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://miggia.github.io/publication/content/publication/parmiggiani-12/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/content/publication/parmiggiani-12/"
+                />
+  </url>
+  
+  <url>
     <loc>https://miggia.github.io/authors/b.-vanderborght/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1450,7 +1385,6 @@
   <url>
     <loc>https://miggia.github.io/authors/c.-semini/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1466,7 +1400,6 @@
   <url>
     <loc>https://miggia.github.io/authors/d.-g.-caldwell/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1482,7 +1415,6 @@
   <url>
     <loc>https://miggia.github.io/authors/e.-guglielmino/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1498,7 +1430,6 @@
   <url>
     <loc>https://miggia.github.io/authors/m.-focchi/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1529,7 +1460,6 @@
   <url>
     <loc>https://miggia.github.io/publication_types/7/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1539,21 +1469,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/publication_types/7/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/"
                 />
   </url>
   
@@ -1569,6 +1484,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/project/icub2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/"
                 />
   </url>
   
@@ -1590,7 +1520,6 @@
   <url>
     <loc>https://miggia.github.io/authors/l.-jamone/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1606,7 +1535,6 @@
   <url>
     <loc>https://miggia.github.io/authors/m.-fumagalli/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -1650,7 +1578,6 @@
   
   <url>
     <loc>https://miggia.github.io/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
