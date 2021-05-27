@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://miggia.github.io/</loc>
+    <lastmod>2021-06-04T12:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/talk/icra-21-workshop-on-parallel-robots/</loc>
+    <lastmod>2021-06-04T12:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/talk/icra-21-workshop-on-parallel-robots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/talk/icra-21-workshop-on-parallel-robots/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/event/</loc>
+    <lastmod>2021-06-04T12:20:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/event/"
+                />
+  </url><url>
     <loc>https://miggia.github.io/publication-type/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,19 +65,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/publication/pizzorni-21-adhesive/"
-                />
-  </url><url>
-    <loc>https://miggia.github.io/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/"
                 />
   </url><url>
     <loc>https://miggia.github.io/publication/parmiggiani-21-effect/</loc>
@@ -78,6 +104,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/tag/additive-manufacturing/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/additive-manufacturing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/additive-manufacturing/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/project/am-comp-mech/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/project/am-comp-mech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/project/am-comp-mech/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/tag/compliant-mechanisms/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/compliant-mechanisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/compliant-mechanisms/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/project/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/project/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/tags/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tags/"
                 />
   </url><url>
     <loc>https://miggia.github.io/publication-type/1/</loc>
@@ -130,6 +221,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/publication/parmiggiani-20-tactile/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/project/am-cont-fiber/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/project/am-cont-fiber/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/project/am-cont-fiber/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/tag/composite-materials/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/composite-materials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/composite-materials/"
                 />
   </url><url>
     <loc>https://miggia.github.io/publication/shah-19-comparison/</loc>
@@ -195,19 +312,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/publication/billier-19-robot/"
-                />
-  </url><url>
-    <loc>https://miggia.github.io/tags/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/"
                 />
   </url><url>
     <loc>https://miggia.github.io/tag/wrist-design/</loc>
@@ -520,19 +624,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://miggia.github.io/tag/parallel-mechanisms/"
-                />
-  </url><url>
-    <loc>https://miggia.github.io/project/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/project/"
                 />
   </url><url>
     <loc>https://miggia.github.io/project/r1/</loc>

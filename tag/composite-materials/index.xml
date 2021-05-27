@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>composite materials | Alberto Parmiggiani</title>
+    <link>https://miggia.github.io/tag/composite-materials/</link>
+      <atom:link href="https://miggia.github.io/tag/composite-materials/index.xml" rel="self" type="application/rss+xml" />
+    <description>composite materials</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miggia.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>composite materials</title>
+      <link>https://miggia.github.io/tag/composite-materials/</link>
+    </image>
+    
+    <item>
+      <title>CF-AM</title>
+      <link>https://miggia.github.io/project/am-cont-fiber/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/project/am-cont-fiber/</guid>
+      <description>&lt;p&gt;Since 2015, several companies have developed systems for the fabrication of composite parts employing the technology commonly named continuous fiber additive manufacturing (CF-AM). This is substantially an evolution of FFF, whereby continuous high-resistance fibers are deposited together with a thermoplastic material acting as the matrix of the composite. This process yields components having remarkable mechanical properties in the direction of the reinforcement fibers. In this project we are carrying out several experimental activities aimed at defining the capabilities and limitations of this technology.&lt;/p&gt;
+&lt;p&gt;This project is carried out in collaboration with &lt;a href=&#34;https://www.iit.it/web/materials-characterization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT&amp;rsquo;s material characterization facility&lt;/a&gt; and the Department of Mechanical Engineering (DIME), of the University of Genoa.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

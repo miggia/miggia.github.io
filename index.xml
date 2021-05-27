@@ -5,12 +5,34 @@
     <link>https://miggia.github.io/</link>
       <atom:link href="https://miggia.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Parmiggiani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 12:20:00 +0000</lastBuildDate>
     <image>
       <url>https://miggia.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Alberto Parmiggiani</title>
       <link>https://miggia.github.io/</link>
     </image>
+    
+    <item>
+      <title>ICRA 21 Workshop on parallel robots</title>
+      <link>https://miggia.github.io/talk/icra-21-workshop-on-parallel-robots/</link>
+      <pubDate>Fri, 04 Jun 2021 12:20:00 +0000</pubDate>
+      <guid>https://miggia.github.io/talk/icra-21-workshop-on-parallel-robots/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Adhesive bonding of a mixed short and continuous carbon-fiber-reinforced Nylon-6 composite made via fused filament fabrication</title>
@@ -29,6 +51,17 @@
     </item>
     
     <item>
+      <title>AM of compliant mechanisms</title>
+      <link>https://miggia.github.io/project/am-comp-mech/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/project/am-comp-mech/</guid>
+      <description>&lt;p&gt;The recent advent of Additive Manufacturing (AM) has fundamentally changed the way we manufacture things. From design to tooling to replacement parts, additive manufacturing affected most areas of engineering. However, its impact on the field of robotics is just beginning to be felt.&lt;/p&gt;
+&lt;p&gt;Designing, fabricating and assembling articulated robots is a long and complex process. The clever application of AM can, however, overcome part of these difficulties. For example, robots with lower part counts can be designed specifically for AM, requiring little or no assembly operations. Furthermore, compliant joints can be used to replace traditional multi-part revolute or linear joints. Finally, the local tuning of material properties is now possible, thanks to the advent of new machines allowing fabrication with multiple materials and long-fibre composites. These possibilities open the way for integrated, high-performance monolithic robotic systems.&lt;/p&gt;
+&lt;p&gt;This project aims to rethink the way we currently design and make robots by developing new approaches for their implementation, taking advantage of the possibilities of AM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Constant Length Tendon Routing Mechanism through Axial Joint</title>
       <link>https://miggia.github.io/publication/shah-20-constant/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -42,6 +75,16 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://miggia.github.io/publication/parmiggiani-20-tactile/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>CF-AM</title>
+      <link>https://miggia.github.io/project/am-cont-fiber/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://miggia.github.io/project/am-cont-fiber/</guid>
+      <description>&lt;p&gt;Since 2015, several companies have developed systems for the fabrication of composite parts employing the technology commonly named continuous fiber additive manufacturing (CF-AM). This is substantially an evolution of FFF, whereby continuous high-resistance fibers are deposited together with a thermoplastic material acting as the matrix of the composite. This process yields components having remarkable mechanical properties in the direction of the reinforcement fibers. In this project we are carrying out several experimental activities aimed at defining the capabilities and limitations of this technology.&lt;/p&gt;
+&lt;p&gt;This project is carried out in collaboration with &lt;a href=&#34;https://www.iit.it/web/materials-characterization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT&amp;rsquo;s material characterization facility&lt;/a&gt; and the Department of Mechanical Engineering (DIME), of the University of Genoa.&lt;/p&gt;
+</description>
     </item>
     
     <item>
