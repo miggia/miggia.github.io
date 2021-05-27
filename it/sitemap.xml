@@ -1,70 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://miggia.github.io/it/publication_types/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>https://miggia.github.io/it/publication-type/2/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication_types/2/"
+                href="https://miggia.github.io/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication_types/2/"
+                href="https://miggia.github.io/it/publication-type/2/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication_types/6/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/pizzorni-21-adhesive/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication_types/6/"
+                href="https://miggia.github.io/publication/pizzorni-21-adhesive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication_types/6/"
+                href="https://miggia.github.io/it/publication/pizzorni-21-adhesive/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/shah-19/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/shah-19/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/shah-19/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/alberto-parmiggiani/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/alberto-parmiggiani/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/alberto-parmiggiani/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://miggia.github.io/it/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,146 +40,22 @@
                 hreflang="it"
                 href="https://miggia.github.io/it/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/alessandro-scalzo/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-21-effect/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/alessandro-scalzo/"
+                href="https://miggia.github.io/publication/parmiggiani-21-effect/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/alessandro-scalzo/"
+                href="https://miggia.github.io/it/publication/parmiggiani-21-effect/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/bastien-berret/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/bastien-berret/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/bastien-berret/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/fiorio-19/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/fiorio-19/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/fiorio-19/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/divya-shah/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/divya-shah/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/divya-shah/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/francesco-nori/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/francesco-nori/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/francesco-nori/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/francesco-romano/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/francesco-romano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/francesco-romano/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/giorgio-metta/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/giorgio-metta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/giorgio-metta/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/luca-fiorio/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/luca-fiorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/luca-fiorio/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://miggia.github.io/it/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -225,11 +66,9 @@
                 hreflang="it"
                 href="https://miggia.github.io/it/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://miggia.github.io/it/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -240,161 +79,126 @@
                 hreflang="it"
                 href="https://miggia.github.io/it/publication/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/yuanqing-wu/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication-type/1/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication-type/1/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication-type/6/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication-type/6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication-type/6/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/shah-20-constant/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/shah-20-constant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/shah-20-constant/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-20-tactile/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/parmiggiani-20-tactile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/parmiggiani-20-tactile/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/shah-19-comparison/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/yuanqing-wu/"
+                href="https://miggia.github.io/publication/shah-19-comparison/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/yuanqing-wu/"
+                href="https://miggia.github.io/it/publication/shah-19-comparison/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication_types/1/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/sureshbabu-19-systematic/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication_types/1/"
+                href="https://miggia.github.io/publication/sureshbabu-19-systematic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication_types/1/"
+                href="https://miggia.github.io/it/publication/sureshbabu-19-systematic/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/bsili-18/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/fiorio-19-design/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/bsili-18/"
+                href="https://miggia.github.io/publication/fiorio-19-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/bsili-18/"
+                href="https://miggia.github.io/it/publication/fiorio-19-design/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/tags/cad-simulation/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/parallel-kinematics/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/tags/cad-simulation/"
+                href="https://miggia.github.io/tag/parallel-kinematics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/tags/cad-simulation/"
+                href="https://miggia.github.io/it/tag/parallel-kinematics/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/shah-18-b/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/billier-19-robot/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/shah-18-b/"
+                href="https://miggia.github.io/publication/billier-19-robot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/shah-18-b/"
+                href="https://miggia.github.io/it/publication/billier-19-robot/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/tags/mechanism-design/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/mechanism-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/mechanism-design/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/project/n-uu_mechanisms/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/project/n-uu_mechanisms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/project/n-uu_mechanisms/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/project/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/raed-bsili/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/raed-bsili/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/raed-bsili/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/tags/spherical-parallel-mechanisms/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/spherical-parallel-mechanisms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/spherical-parallel-mechanisms/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://miggia.github.io/it/tags/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -405,474 +209,332 @@
                 hreflang="it"
                 href="https://miggia.github.io/it/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/tags/workspace-analysis/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/wrist-design/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/wrist-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/wrist-design/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/bsili-18-evolutionary/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/tags/workspace-analysis/"
+                href="https://miggia.github.io/publication/bsili-18-evolutionary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/tags/workspace-analysis/"
+                href="https://miggia.github.io/it/publication/bsili-18-evolutionary/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/shah-18-a/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/cad_simulation/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/shah-18-a/"
+                href="https://miggia.github.io/tag/cad_simulation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/shah-18-a/"
+                href="https://miggia.github.io/it/tag/cad_simulation/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/fiorio-17/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/shah-18-comparison/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/shah-18-comparison/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/shah-18-comparison/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/mechanism_design/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/mechanism_design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/mechanism_design/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/parallel_robot/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/parallel_robot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/parallel_robot/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/spherical_parallel_mechanisms/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/spherical_parallel_mechanisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/spherical_parallel_mechanisms/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/shah-18-workspace/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/shah-18-workspace/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/shah-18-workspace/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/workspace_analysis/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/workspace_analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/workspace_analysis/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/wrist_design/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/wrist_design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/wrist_design/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/sureshbabu-17-design-force/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/publication/sureshbabu-17-design-force/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/publication/sureshbabu-17-design-force/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/fiorio-17-parallel/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/fiorio-17/"
+                href="https://miggia.github.io/publication/fiorio-17-parallel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/fiorio-17/"
+                href="https://miggia.github.io/it/publication/fiorio-17-parallel/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/a.-parmiggiani/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/sureshbabu-17-parallel/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/a.-parmiggiani/"
+                href="https://miggia.github.io/publication/sureshbabu-17-parallel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/a.-parmiggiani/"
+                href="https://miggia.github.io/it/publication/sureshbabu-17-parallel/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/a.-scalzo/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/sureshbabu-17-design-cost/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/a.-scalzo/"
+                href="https://miggia.github.io/publication/sureshbabu-17-design-cost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/a.-scalzo/"
+                href="https://miggia.github.io/it/publication/sureshbabu-17-design-cost/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/g.-metta/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/g.-metta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/g.-metta/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/l.-fiorio/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/l.-fiorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/l.-fiorio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/l.-natale/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/l.-natale/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/l.-natale/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/alberto-cardellino/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-17-design/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/alberto-cardellino/"
+                href="https://miggia.github.io/publication/parmiggiani-17-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/alberto-cardellino/"
+                href="https://miggia.github.io/it/publication/parmiggiani-17-design/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/anand-vazhapilli-sureshbabu/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication-type/8/</loc>
+    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/anand-vazhapilli-sureshbabu/"
+                href="https://miggia.github.io/publication-type/8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/anand-vazhapilli-sureshbabu/"
+                href="https://miggia.github.io/it/publication-type/8/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/daniele-domenichelli/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/euipo-rcd-003074913-0001/</loc>
+    <lastmod>2016-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/daniele-domenichelli/"
+                href="https://miggia.github.io/publication/euipo-rcd-003074913-0001/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/daniele-domenichelli/"
+                href="https://miggia.github.io/it/publication/euipo-rcd-003074913-0001/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/hagen-lehmann/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/hagen-lehmann/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/hagen-lehmann/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/lorenzo-natale/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/lorenzo-natale/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/lorenzo-natale/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/marco-maggiali/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/marco-maggiali/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/marco-maggiali/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/marco-randazzo/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/marco-randazzo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/marco-randazzo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/pierpaolo-congiu/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/pierpaolo-congiu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/pierpaolo-congiu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/roberto-cingolani/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/roberto-cingolani/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/roberto-cingolani/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-17/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-17/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-17/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/ugo-pattacini/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/ugo-pattacini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/ugo-pattacini/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/vadim-tikhanoff/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/vadim-tikhanoff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/vadim-tikhanoff/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/claudio-campus/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/cuturi-16-science/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/claudio-campus/"
+                href="https://miggia.github.io/publication/cuturi-16-science/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/claudio-campus/"
+                href="https://miggia.github.io/it/publication/cuturi-16-science/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/elena-aggius-vella/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/lehmann-16-head/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/elena-aggius-vella/"
+                href="https://miggia.github.io/publication/lehmann-16-head/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/elena-aggius-vella/"
+                href="https://miggia.github.io/it/publication/lehmann-16-head/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/cuturi-16/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/cuturi-16/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/cuturi-16/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/lehmann-16/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/lehmann-16/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/lehmann-16/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/luigi-f.-cuturi/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/luigi-f.-cuturi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/luigi-f.-cuturi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/monica-gori/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/monica-gori/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/monica-gori/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/sureshbabu-15/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/sureshbabu-15-new/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/sureshbabu-15/"
+                href="https://miggia.github.io/publication/sureshbabu-15-new/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/sureshbabu-15/"
+                href="https://miggia.github.io/it/publication/sureshbabu-15-new/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/a.-v.-sureshbabu/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/a.-v.-sureshbabu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/a.-v.-sureshbabu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-15/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-15-design/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-15/"
+                href="https://miggia.github.io/publication/parmiggiani-15-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-15/"
+                href="https://miggia.github.io/it/publication/parmiggiani-15-design/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/frederic-elisei/</loc>
-    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/humanoid-robot/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/frederic-elisei/"
+                href="https://miggia.github.io/tag/humanoid-robot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/frederic-elisei/"
+                href="https://miggia.github.io/it/tag/humanoid-robot/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/gerard-bailly/</loc>
-    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/mechatronics/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/gerard-bailly/"
+                href="https://miggia.github.io/tag/mechatronics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/gerard-bailly/"
+                href="https://miggia.github.io/it/tag/mechatronics/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/parallel-mechanisms/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/tag/parallel-mechanisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/tag/parallel-mechanisms/"
+                />
+  </url><url>
+    <loc>https://miggia.github.io/it/project/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/project/"
+                />
+  </url><url>
     <loc>https://miggia.github.io/it/project/r1/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -885,698 +547,266 @@
                 hreflang="it"
                 href="https://miggia.github.io/it/project/r1/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/</loc>
-    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/robotics/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-14-b/"
+                href="https://miggia.github.io/tag/robotics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-14-b/"
+                href="https://miggia.github.io/it/tag/robotics/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/f.-elisei/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-14-articulated/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/f.-elisei/"
+                href="https://miggia.github.io/publication/parmiggiani-14-articulated/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/f.-elisei/"
+                href="https://miggia.github.io/it/publication/parmiggiani-14-articulated/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/g.-bailly/</loc>
-    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/g.-bailly/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/g.-bailly/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/m.-maggiali/</loc>
-    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/m.-maggiali/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/m.-maggiali/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/m.-randazzo/</loc>
-    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/m.-randazzo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/m.-randazzo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-14-alternative/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-14-a/"
+                href="https://miggia.github.io/publication/parmiggiani-14-alternative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-14-a/"
+                href="https://miggia.github.io/it/publication/parmiggiani-14-alternative/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/giulio-sandini/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-14-performance/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/giulio-sandini/"
+                href="https://miggia.github.io/publication/parmiggiani-14-performance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/giulio-sandini/"
+                href="https://miggia.github.io/it/publication/parmiggiani-14-performance/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-14-c/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/natale-14-sensorimotor/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-14-c/"
+                href="https://miggia.github.io/publication/natale-14-sensorimotor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-14-c/"
+                href="https://miggia.github.io/it/publication/natale-14-sensorimotor/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/natale-14/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/fiorio-14-stiction/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/natale-14/"
+                href="https://miggia.github.io/publication/fiorio-14-stiction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/natale-14/"
+                href="https://miggia.github.io/it/publication/fiorio-14-stiction/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/fiorio-14/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/fiorio-14/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/fiorio-14/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/f.-nori/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/fiorio-13-effects/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/f.-nori/"
+                href="https://miggia.github.io/publication/fiorio-13-effects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/f.-nori/"
+                href="https://miggia.github.io/it/publication/fiorio-13-effects/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/f.-romano/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/f.-romano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/f.-romano/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/g.-sandini/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/g.-sandini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/g.-sandini/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/fiorio-13/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/fiorio-13/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/fiorio-13/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/project/icub_expressive_face/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/eljaik-13-quantitative/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/project/icub_expressive_face/"
+                href="https://miggia.github.io/publication/eljaik-13-quantitative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/project/icub_expressive_face/"
+                href="https://miggia.github.io/it/publication/eljaik-13-quantitative/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/jorhabib-eljaik/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/ep-2890527/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/jorhabib-eljaik/"
+                href="https://miggia.github.io/publication/ep-2890527/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/jorhabib-eljaik/"
+                href="https://miggia.github.io/it/publication/ep-2890527/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/nikos-g-tsagarakis/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/nikos-g-tsagarakis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/nikos-g-tsagarakis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/eljaik-13/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/eljaik-13/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/eljaik-13/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/zhibin-li/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/zhibin-li/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/zhibin-li/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/b.-berret/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/fiorio-12-pnrvsa/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/b.-berret/"
+                href="https://miggia.github.io/publication/fiorio-12-pnrvsa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/b.-berret/"
+                href="https://miggia.github.io/it/publication/fiorio-12-pnrvsa/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/n.-tsagarakis/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-12-mechatronic/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/n.-tsagarakis/"
+                href="https://miggia.github.io/publication/parmiggiani-12-mechatronic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/n.-tsagarakis/"
+                href="https://miggia.github.io/it/publication/parmiggiani-12-mechatronic/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/fiorio-12/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/fiorio-12/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/fiorio-12/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/</loc>
-    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-12-b/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-12-b/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/alexander-schmitz/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/nori-12-control/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/alexander-schmitz/"
+                href="https://miggia.github.io/publication/nori-12-control/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/alexander-schmitz/"
+                href="https://miggia.github.io/it/publication/nori-12-control/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/nori-12/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/humanoids-design/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/nori-12/"
+                href="https://miggia.github.io/tag/humanoids-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/nori-12/"
+                href="https://miggia.github.io/it/tag/humanoids-design/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/francesco-becchi/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/tag/icub/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/francesco-becchi/"
+                href="https://miggia.github.io/tag/icub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/francesco-becchi/"
+                href="https://miggia.github.io/it/tag/icub/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/tags/humanoids-design/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-12-design/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/tags/humanoids-design/"
+                href="https://miggia.github.io/publication/parmiggiani-12-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/tags/humanoids-design/"
+                href="https://miggia.github.io/it/publication/parmiggiani-12-design/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/tags/icub/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/tags/icub/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/tags/icub/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/project/icub_sea_legs/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/project/icub_sea_legs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/project/icub_sea_legs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/josee-santos-viktor/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/josee-santos-viktor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/josee-santos-viktor/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/nikos-tsagarakis/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/nikos-tsagarakis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/nikos-tsagarakis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-12/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-12/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-12/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/b.-vanderborght/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/focchi-10-water-air/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/b.-vanderborght/"
+                href="https://miggia.github.io/publication/focchi-10-water-air/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/b.-vanderborght/"
+                href="https://miggia.github.io/it/publication/focchi-10-water-air/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/c.-semini/</loc>
-    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/c.-semini/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/c.-semini/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/d.-g.-caldwell/</loc>
-    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/d.-g.-caldwell/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/d.-g.-caldwell/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/e.-guglielmino/</loc>
-    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/e.-guglielmino/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/e.-guglielmino/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/m.-focchi/</loc>
-    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/m.-focchi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/m.-focchi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/focchi-10/</loc>
-    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/focchi-10/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/focchi-10/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication_types/7/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication_types/7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication_types/7/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/project/icub2/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/project/icub2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/project/icub2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-phd-10/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-phd-10/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/fumagalli-09/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/fumagalli-09-force/</loc>
     <lastmod>2009-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/fumagalli-09/"
+                href="https://miggia.github.io/publication/fumagalli-09-force/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/fumagalli-09/"
+                href="https://miggia.github.io/it/publication/fumagalli-09-force/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/l.-jamone/</loc>
-    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/l.-jamone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/l.-jamone/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/m.-fumagalli/</loc>
-    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/authors/m.-fumagalli/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/authors/m.-fumagalli/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/publication/content/publication/parmiggiani-09/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/publication/parmiggiani-09-joint/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/publication/content/publication/parmiggiani-09/"
+                href="https://miggia.github.io/publication/parmiggiani-09-joint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/publication/content/publication/parmiggiani-09/"
+                href="https://miggia.github.io/it/publication/parmiggiani-09-joint/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/authors/admin/</loc>
+  </url><url>
+    <loc>https://miggia.github.io/it/project/icub/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://miggia.github.io/authors/admin/"
+                href="https://miggia.github.io/project/icub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://miggia.github.io/it/authors/admin/"
+                href="https://miggia.github.io/it/project/icub/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://miggia.github.io/it/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://miggia.github.io/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://miggia.github.io/it/admin/"
+                />
+  </url><url>
     <loc>https://miggia.github.io/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1589,33 +819,4 @@
                 href="https://miggia.github.io/it/categories/"
                 />
   </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://miggia.github.io/it/talk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://miggia.github.io/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://miggia.github.io/it/talk/"
-                />
-  </url>
-  
 </urlset>
