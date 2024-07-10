@@ -1,18 +1,157 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://miggia.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2021-06-04T12:20:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://miggia.github.io/it/sitemap.xml</loc>
-    
-      <lastmod>2021-06-04T12:20:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://miggia.github.io/contacts/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/contacts/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/contacts/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/news/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/news/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/news/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/publications/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/publications/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/publications/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/3d_printed_robots/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/3d_printed_robots/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/3d_printed_robots/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/cf_am/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/cf_am/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/cf_am/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/disarmadillo%2B/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/disarmadillo%2B/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/disarmadillo%2B/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/force-torque_sensors/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/force-torque_sensors/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/force-torque_sensors/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/icub/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/icub/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/icub/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/projects/r1/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/r1/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/r1/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/contacts/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/contacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/contacts/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/news/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/news/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/publications/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/publications/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/3d_printed_robots/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/3d_printed_robots/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/3d_printed_robots/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/cf_am/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/cf_am/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/cf_am/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/disarmadillo%2B/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/disarmadillo%2B/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/disarmadillo%2B/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/force-torque_sensors/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/force-torque_sensors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/force-torque_sensors/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/icub/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/icub/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/icub/"/>
+    </url>
+    <url>
+        <loc>https://miggia.github.io/it/projects/r1/</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://miggia.github.io/it/projects/r1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miggia.github.io/projects/r1/"/>
+    </url>
+</urlset>
