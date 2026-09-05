@@ -348,6 +348,20 @@ a {
     color: var(--text);
 }
 
+.back-link__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
+.back-link__link svg {
+    width: 0.9rem;
+    height: 0.9rem;
+    fill: currentColor;
+}
+
 .content h1 {
     font-size: 2.5rem;
     font-weight: 600;
